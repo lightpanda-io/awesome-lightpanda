@@ -31,7 +31,8 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 ---
  
 ## Web Data Extraction
- 
+
+- [crw](https://github.com/us/crw) - Open-source web scraper built for AI agents with a built-in MCP server. Single Rust binary, ~6 MB idle RAM. Uses Lightpanda for JS rendering. Firecrawl-compatible API.
 - [node-scraper](https://github.com/monostate/node-scraper) - Smart Node.js scraper that automatically switches between fetch, Lightpanda headless, and full Puppeteer with intelligent fallback. Includes AI-powered Q&A, PDF parsing, and bulk scraping with progress tracking.
 - [neo](https://github.com/4ier/neo) - Turn any web app into an API. Chrome extension that captures browser traffic, auto-generates schemas, and lets AI replay APIs directly. Supports Lightpanda as a fast headless backend for AI agents and scraping.
  
