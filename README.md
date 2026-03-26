@@ -45,6 +45,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 
 - [navidemad/capybara-lightpanda](https://github.com/navidemad/capybara-lightpanda) - Capybara driver for Lightpanda, enabling Ruby integration testing with the Lightpanda headless browser.
 - [marcoroth/lightpanda-ruby](https://github.com/marcoroth/lightpanda-ruby) - Ruby client for Lightpanda via CDP with high-level browser automation API and Capybara driver.
+- [tclesius/lightpanda-py](https://github.com/tclesius/lightpanda-py) - Python client for Lightpanda that bundles the binary and exposes APIs to fetch pages, start a CDP server, start an MCP server, etc.
 
 ## Resources
  
