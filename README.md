@@ -42,6 +42,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Vercel's browser automation CLI for AI agents. Supports Lightpanda as an engine via `--engine lightpanda` as a faster, lighter alternative for Chrome. Written in Rust.
 - [ulpi-io/browse](https://github.com/ulpi-io/browse) - Browsing tool by ULPI for AI agent workflows, powered by Lightpanda.
 - [irookanji/playwright-lightpanda-tests](https://github.com/irookanji/playwright-lightpanda-tests) - Playwright test automation framework with LightPanda integration.
+- [elchemista/spectre_lens](https://github.com/elchemista/spectre_lens) - Agent-first Elixir browser lens for Lightpanda.
 
 ## Language Bindings and Drivers
 
@@ -49,6 +50,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [ferdiunal/larapanda](https://github.com/ferdiunal/larapanda) - Type-safe Lightpanda SDK for Laravel and PHP with named instances, auto CLI/Docker runtime resolution, MCP integration, and strict markdown/semantic tree outputs.
 - [marcoroth/lightpanda-ruby](https://github.com/marcoroth/lightpanda-ruby) - Ruby client for Lightpanda via CDP with high-level browser automation API and Capybara driver.
 - [tclesius/lightpanda-py](https://github.com/tclesius/lightpanda-py) - Python client for Lightpanda that bundles the binary and exposes APIs to fetch pages, start a CDP server, start an MCP server, etc.
+- [u2i/lightpanda](https://github.com/u2i/lightpanda) - Elixir package for installing and running the Lightpanda headless browser. 
 
 ## Resources
  
