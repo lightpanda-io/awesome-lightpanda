@@ -43,6 +43,8 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [ulpi-io/browse](https://github.com/ulpi-io/browse) - Browsing tool by ULPI for AI agent workflows, powered by Lightpanda.
 - [irookanji/playwright-lightpanda-tests](https://github.com/irookanji/playwright-lightpanda-tests) - Playwright test automation framework with LightPanda integration.
 - [elchemista/spectre_lens](https://github.com/elchemista/spectre_lens) - Agent-first Elixir browser lens for Lightpanda.
+- [LocalKinAI/kinbrowser](https://github.com/LocalKinAI/kinbrowser) - Markdown-native browser for AI agents with three tier waterfall system, HTTP → Lightpanda → chromedp.
+- [hartmantexas/tb](https://github.com/hartmantexas/tb) - Hybrid approach using Lightpanda with Satori to convert DOM HTML to svg, falling back to Chromium for pixels.
 
 ## Language Bindings and Drivers
 
