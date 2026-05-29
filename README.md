@@ -45,6 +45,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [elchemista/spectre_lens](https://github.com/elchemista/spectre_lens) - Agent-first Elixir browser lens for Lightpanda.
 - [LocalKinAI/kinbrowser](https://github.com/LocalKinAI/kinbrowser) - Markdown-native browser for AI agents with three tier waterfall system, HTTP → Lightpanda → chromedp.
 - [hartmantexas/tb](https://github.com/hartmantexas/tb) - Hybrid approach using Lightpanda with Satori to convert DOM HTML to svg, falling back to Chromium for pixels.
+- [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - Node.js framework for WhatsApp chatbots. Bots can swap to a lightweight headless backend without runtime changes.
 
 ## Language Bindings and Drivers
 
