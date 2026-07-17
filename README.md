@@ -47,6 +47,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [hartmantexas/tb](https://github.com/hartmantexas/tb) - Hybrid approach using Lightpanda with Satori to convert DOM HTML to svg, falling back to Chromium for pixels.
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - Node.js framework for WhatsApp chatbots. Bots can swap to a lightweight headless backend without runtime changes.
 - [EratoLab/web-access-mcp](https://github.com/EratoLab/web-access-mcp) - A simple web access MCP server targeted towards chat interfaces.
+- [statkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - a Lightpanda browser plugin/tool for OpenCode.
 
 ## Language Bindings and Drivers
 
@@ -55,7 +56,6 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [marcoroth/lightpanda-ruby](https://github.com/marcoroth/lightpanda-ruby) - Ruby client for Lightpanda via CDP with high-level browser automation API and Capybara driver.
 - [tclesius/lightpanda-py](https://github.com/tclesius/lightpanda-py) - Python client for Lightpanda that bundles the binary and exposes APIs to fetch pages, start a CDP server, start an MCP server, etc.
 - [u2i/lightpanda](https://github.com/u2i/lightpanda) - Elixir package for installing and running the Lightpanda headless browser.
-- [statkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - a Lightpanda browser plugin/tool for OpenCode.
 
 ## Resources
  
