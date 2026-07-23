@@ -46,8 +46,9 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [LocalKinAI/kinbrowser](https://github.com/LocalKinAI/kinbrowser) - Markdown-native browser for AI agents with three tier waterfall system, HTTP → Lightpanda → chromedp.
 - [hartmantexas/tb](https://github.com/hartmantexas/tb) - Hybrid approach using Lightpanda with Satori to convert DOM HTML to svg, falling back to Chromium for pixels.
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - Node.js framework for WhatsApp chatbots. Bots can swap to a lightweight headless backend without runtime changes.
-- [EratoLab/web-access-mcp](https://github.com/EratoLab/web-access-mcp) - A simple web access MCP server targeted towards chat interfaces.
+- [EratoLab/web-access-mcp](https://github.com/EratoLab/web-access-mcp) - a simple web access MCP server targeted towards chat interfaces.
 - [statkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - a Lightpanda browser plugin/tool for OpenCode.
+- [hasindu-madushan/slim-atlas-ai] - an MCP server providing lightweight browser automation using Lightpanda for LLMs.
 
 ## Language Bindings and Drivers
 
