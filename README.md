@@ -51,7 +51,9 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [hasindu-madushan/slim-atlas-ai](https://github.com/hasindu-madushan/slim-atlas-ai) - an MCP server providing lightweight browser automation using Lightpanda for LLMs.
 - [us/crw](https://github.com/us/crw) - web scraper, crawler & search API in Rust with MCP server for AI agents.
 - [seaavey/SBrowser](https://github.com/seaavey/SBrowser) - web search and Scraping REST API with Redis Anti-DDoS shield.
-- [prokopis3/webrain](https://github.com/prokopis3/webrain) - Rust MCP server for LLM-driven browser automation and web scraping
+- [prokopis3/webrain](https://github.com/prokopis3/webrain) - Rust MCP server for LLM-driven browser automation and web scraping.
+- [veerupandey/kageha_agent](https://github.com/veerupandey/kageha_agent) - thin agent kernel: plan/act/verify.
+- [amurru/hakase](https://github.com/amurru/hakase) - Go AI research and navigation agent.
 
 ## Language Bindings and Drivers
 
