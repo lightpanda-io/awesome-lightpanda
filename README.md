@@ -50,7 +50,8 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [statkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - a Lightpanda browser plugin/tool for OpenCode.
 - [hasindu-madushan/slim-atlas-ai](https://github.com/hasindu-madushan/slim-atlas-ai) - an MCP server providing lightweight browser automation using Lightpanda for LLMs.
 - [us/crw](https://github.com/us/crw) - web scraper, crawler & search API in Rust with MCP server for AI agents.
-- [seaavey/SBrowser](https://github.com/seaavey/SBrowser) - Web Search and Scraping REST API with Redis Anti-DDoS shield. 
+- [seaavey/SBrowser](https://github.com/seaavey/SBrowser) - web search and Scraping REST API with Redis Anti-DDoS shield.
+- [prokopis3/webrain](https://github.com/prokopis3/webrain) - Rust MCP server for LLM-driven browser automation and web scraping
 
 ## Language Bindings and Drivers
 
@@ -59,6 +60,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [marcoroth/lightpanda-ruby](https://github.com/marcoroth/lightpanda-ruby) - Ruby client for Lightpanda via CDP with high-level browser automation API and Capybara driver.
 - [tclesius/lightpanda-py](https://github.com/tclesius/lightpanda-py) - Python client for Lightpanda that bundles the binary and exposes APIs to fetch pages, start a CDP server, start an MCP server, etc.
 - [u2i/lightpanda](https://github.com/u2i/lightpanda) - Elixir package for installing and running the Lightpanda headless browser.
+- [DamageBDD/DamageBDD](https://github.com/DamageBDD/DamageBDD) - Erlang BDD behaviour-verification platform with Lightpanda in its browser layer
 
 ## Resources
  
