@@ -43,6 +43,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [ba0f3/gocrawl](https://github.com/ba0f3/gocrawl) - Go crawler with chromedp/Lightpanda auto-fallback for client-rendered pages and challenge pages. Ships a docker-compose with Lightpanda on 9222.
 - [cbwln/lightcrawl](https://github.com/cbwln/lightcrawl) - Lightpanda-powered alternative to Firecrawl.
 - [raakkan/agents-api](https://github.com/raakkan/agents-api) - self-hostable scraping, meta-search and screenshot REST API for agents with Lightpanda CDP as one of the engines.
+- [endurance-ai/crawler](https://github.com/endurance-ai/crawler) - fashion SKU crawler for kiko.ai. 
 
 ## AI Agents and Automation
 
@@ -70,6 +71,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [codedoga/lightpanda-mcp](https://github.com/codedoga/lightpanda-mcp) - Docker image exposing Lightpanda's native MCP server over Streamable HTTP via supergateway. 
 - [oussamaelfig/Reynard](https://github.com/oussamaelfig/Reynard) - Autonomous CTF and authorized web security testing agent with a Kali/Lightpanda tool runtime. 
 - [audityourcontracts/pi-lightpanda](https://github.com/audityourcontracts/pi-lightpanda) - Lightpanda headless browser extension for the `pi` coding agent.
+- [Hexpy-Games/butler](https://github.com/Hexpy-Games/butler) - local-first AI agent runtime for personal and project work. `lightpanda` is a selectable reader backend.
 
 ## Language Bindings and Drivers
 
