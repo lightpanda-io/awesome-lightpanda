@@ -55,11 +55,19 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [hartmantexas/tb](https://github.com/hartmantexas/tb) - Hybrid approach using Lightpanda with Satori to convert DOM HTML to svg, falling back to Chromium for pixels.
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - Node.js framework for WhatsApp chatbots. Bots can swap to a lightweight headless backend without runtime changes.
 - [EratoLab/web-access-mcp](https://github.com/EratoLab/web-access-mcp) - a simple web access MCP server targeted towards chat interfaces.
-- [statkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - a Lightpanda browser plugin/tool for OpenCode.
+- [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - a Lightpanda browser plugin/tool for OpenCode.
 - [hasindu-madushan/slim-atlas-ai](https://github.com/hasindu-madushan/slim-atlas-ai) - an MCP server providing lightweight browser automation using Lightpanda for LLMs.
 - [prokopis3/webrain](https://github.com/prokopis3/webrain) - Rust MCP server for LLM-driven browser automation and web scraping.
 - [veerupandey/kageha_agent](https://github.com/veerupandey/kageha_agent) - thin agent kernel: plan/act/verify.
 - [amurru/hakase](https://github.com/amurru/hakase) - Go AI research and navigation agent.
+- [agentjido/jido_browser](https://github.com/agentjido/jido_browser) - browser automation actions for Jido AI agents.
+- [Freakboy/pandamcp](https://github.com/Freakboy/pandamcp) - MCP bridge for Lightpanda/CDP browsers with stdio, SSE and Streamable HTTP transports.
+- [maxwelljens/battlecruiser](https://github.com/maxwelljens/battlecruiser) - terminal mail reader that renders HTML email through Lightpanda.
+- [Brilhante29/lightpanda-mcp-server](https://github.com/Brilhante29/lightpanda-mcp-server) - Go MCP server for Lightpanda.
+- [daanrongen/lightpanda-mcp](https://github.com/daanrongen/lightpanda-mcp) - TypeScript MCP server: navigate, extract, click, fill forms, screenshot, evaluate JS over stdio.
+- [codedoga/lightpanda-mcp](https://github.com/codedoga/lightpanda-mcp) - Docker image exposing Lightpanda's native MCP server over Streamable HTTP via supergateway. 
+- [oussamaelfig/Reynard](https://github.com/oussamaelfig/Reynard) - Autonomous CTF and authorized web security testing agent with a Kali/Lightpanda tool runtime. 
+- [audityourcontracts/pi-lightpanda](https://github.com/audityourcontracts/pi-lightpanda) - Lightpanda headless browser extension for the `pi` coding agent.
 
 ## Language Bindings and Drivers
 
@@ -68,7 +76,10 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [marcoroth/lightpanda-ruby](https://github.com/marcoroth/lightpanda-ruby) - Ruby client for Lightpanda via CDP with high-level browser automation API and Capybara driver.
 - [tclesius/lightpanda-py](https://github.com/tclesius/lightpanda-py) - Python client for Lightpanda that bundles the binary and exposes APIs to fetch pages, start a CDP server, start an MCP server, etc.
 - [u2i/lightpanda](https://github.com/u2i/lightpanda) - Elixir package for installing and running the Lightpanda headless browser.
+- [u2i/wallabidi](https://github.com/u2i/wallabidi) - concurrent Elixir browser testing over WebDriver BiDi. Lightpanda is the documented fast path at roughly 50ms per test, versus a full browser.
 - [DamageBDD/DamageBDD](https://github.com/DamageBDD/DamageBDD) - Erlang BDD behaviour-verification platform with Lightpanda in its browser layer
+- [jonathanong/darkpanda](https://github.com/jonathanong/darkpanda) - TypeScript SDK for Lightpanda.
+- [lessless/light_cdp](https://github.com/lessless/light_cdp) - Elixir CDP client that connects directly to Lightpanda over WebSocket. 
 
 ## Resources
  
