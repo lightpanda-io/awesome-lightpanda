@@ -40,6 +40,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 
 ## AI Agents and Automation
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - Hermes supports Lightpanda as a local agent-browser option, with automatic Chrome fallback.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Vercel's browser automation CLI for AI agents. Supports Lightpanda as an engine via `--engine lightpanda` as a faster, lighter alternative for Chrome. Written in Rust.
 - [ulpi-io/browse](https://github.com/ulpi-io/browse) - Browsing tool by ULPI for AI agent workflows, powered by Lightpanda.
 - [irookanji/playwright-lightpanda-tests](https://github.com/irookanji/playwright-lightpanda-tests) - Playwright test automation framework with LightPanda integration.
