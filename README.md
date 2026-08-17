@@ -48,7 +48,9 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - Hermes supports Lightpanda as a local agent-browser option, with automatic Chrome fallback.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Vercel's browser automation CLI for AI agents. Supports Lightpanda as an engine via `--engine lightpanda` as a faster, lighter alternative for Chrome. Written in Rust.
+- [webcoyote/sandvault](https://github.com/webcoyote/sandvault) - Run AI agents isolated in a macOS user account and sandbox-exec with Lightpanda access.
 - [ulpi-io/browse](https://github.com/ulpi-io/browse) - Browsing tool by ULPI for AI agent workflows, powered by Lightpanda.
+- [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) - OpenClaw rebuilt in Go. Ships `docker-compose.lightpanda.yml` as a sidecar overlay, plus Lightpanda-specific handling in `pkg/browser/browser_remote.go` and `browser_tabs.go`. 
 - [irookanji/playwright-lightpanda-tests](https://github.com/irookanji/playwright-lightpanda-tests) - Playwright test automation framework with LightPanda integration.
 - [elchemista/spectre_lens](https://github.com/elchemista/spectre_lens) - Agent-first Elixir browser lens for Lightpanda.
 - [LocalKinAI/kinbrowser](https://github.com/LocalKinAI/kinbrowser) - Markdown-native browser for AI agents with three tier waterfall system, HTTP → Lightpanda → chromedp.
