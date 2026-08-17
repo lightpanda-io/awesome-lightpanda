@@ -48,7 +48,8 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - Node.js framework for WhatsApp chatbots. Bots can swap to a lightweight headless backend without runtime changes.
 - [EratoLab/web-access-mcp](https://github.com/EratoLab/web-access-mcp) - a simple web access MCP server targeted towards chat interfaces.
 - [statkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - a Lightpanda browser plugin/tool for OpenCode.
-- [hasindu-madushan/slim-atlas-ai] - an MCP server providing lightweight browser automation using Lightpanda for LLMs.
+- [hasindu-madushan/slim-atlas-ai](https://github.com/hasindu-madushan/slim-atlas-ai) - an MCP server providing lightweight browser automation using Lightpanda for LLMs.
+- [us/crw](https://github.com/us/crw) - web scraper, crawler & search API in Rust with MCP server for AI agents. 
 
 ## Language Bindings and Drivers
 
