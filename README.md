@@ -83,6 +83,8 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 
 ## Resources
  
+- [probably-not/lightpanda-wpt-analysis](https://github.com/probably-not/lightpanda-wpt-analysis) - external WPT conformance tracking.
+- [pleasedodisturb/web-agent-comparison](https://github.com/pleasedodisturb/web-agent-comparison) - third-party reproducible benchmark of 7 MCP servers including Lightpanda.
 - [Lightpanda Browser](https://github.com/lightpanda-io/browser) - Lightpanda browser repo.
 - [Lightpanda Docs](https://github.com/lightpanda-io/docs) - Documentation.
 - [Lightpanda Demo](https://github.com/lightpanda-io/demo) - Demo repository with Puppeteer examples and benchmarks.
