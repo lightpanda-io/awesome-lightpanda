@@ -37,6 +37,12 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [tylergibbs1/feedstock](https://github.com/tylergibbs1/feedstock) - High-performance web crawler and scraper for TypeScript, powered by Bun and Playwright
 - [us/crw](https://github.com/us/crw) - Open-source web scraper built for AI agents with a built-in MCP server. Single Rust binary, ~6 MB idle RAM. Uses Lightpanda for JS rendering. Firecrawl-compatible API.
 - [seaavey/SBrowser](https://github.com/seaavey/SBrowser) - web search and Scraping REST API with Redis Anti-DDoS shield.
+- [ancs21/playpanda](https://github.com/ancs21/playpanda) - any URL to LLM-ready markdown. Three-tier engine: HTTP → Lightpanda → CloakBrowser. Written in Zig.
+- [tokimo-lab/tokimo-package-web-fetch](https://github.com/tokimo-lab/tokimo-package-web-fetch) - unified Rust fetcher: plain HTTP, headless browser via Lightpanda, or Cloudflare bypass, with Readability denoising.
+- [KakkoiDev/lightpanda-proxy](https://github.com/KakkoiDev/lightpanda-proxy) - transparent HTTP proxy that renders JavaScript through Lightpanda before handing HTML to text browsers like w3m.
+- [ba0f3/gocrawl](https://github.com/ba0f3/gocrawl) - Go crawler with chromedp/Lightpanda auto-fallback for client-rendered pages and challenge pages. Ships a docker-compose with Lightpanda on 9222.
+- [cbwln/lightcrawl](https://github.com/cbwln/lightcrawl) - Lightpanda-powered alternative to Firecrawl.
+- [raakkan/agents-api](https://github.com/raakkan/agents-api) - self-hostable scraping, meta-search and screenshot REST API for agents with Lightpanda CDP as one of the engines.
 
 ## AI Agents and Automation
 
