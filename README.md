@@ -36,6 +36,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [monostate/node-scraper](https://github.com/monostate/node-scraper) - Smart Node.js scraper that automatically switches between fetch, Lightpanda headless, and full Puppeteer with intelligent fallback. Includes AI-powered Q&A, PDF parsing, and bulk scraping with progress tracking.
 - [tylergibbs1/feedstock](https://github.com/tylergibbs1/feedstock) - High-performance web crawler and scraper for TypeScript, powered by Bun and Playwright
 - [us/crw](https://github.com/us/crw) - Open-source web scraper built for AI agents with a built-in MCP server. Single Rust binary, ~6 MB idle RAM. Uses Lightpanda for JS rendering. Firecrawl-compatible API.
+- [seaavey/SBrowser](https://github.com/seaavey/SBrowser) - web search and Scraping REST API with Redis Anti-DDoS shield.
 
 ## AI Agents and Automation
 
@@ -49,8 +50,6 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [EratoLab/web-access-mcp](https://github.com/EratoLab/web-access-mcp) - a simple web access MCP server targeted towards chat interfaces.
 - [statkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - a Lightpanda browser plugin/tool for OpenCode.
 - [hasindu-madushan/slim-atlas-ai](https://github.com/hasindu-madushan/slim-atlas-ai) - an MCP server providing lightweight browser automation using Lightpanda for LLMs.
-- [us/crw](https://github.com/us/crw) - web scraper, crawler & search API in Rust with MCP server for AI agents.
-- [seaavey/SBrowser](https://github.com/seaavey/SBrowser) - web search and Scraping REST API with Redis Anti-DDoS shield.
 - [prokopis3/webrain](https://github.com/prokopis3/webrain) - Rust MCP server for LLM-driven browser automation and web scraping.
 - [veerupandey/kageha_agent](https://github.com/veerupandey/kageha_agent) - thin agent kernel: plan/act/verify.
 - [amurru/hakase](https://github.com/amurru/hakase) - Go AI research and navigation agent.
