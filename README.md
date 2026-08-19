@@ -72,6 +72,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [oussamaelfig/Reynard](https://github.com/oussamaelfig/Reynard) - Autonomous CTF and authorized web security testing agent with a Kali/Lightpanda tool runtime.
 - [audityourcontracts/pi-lightpanda](https://github.com/audityourcontracts/pi-lightpanda) - Lightpanda headless browser extension for the `pi` coding agent.
 - [Hexpy-Games/butler](https://github.com/Hexpy-Games/butler) - Local-first AI agent runtime for personal and project work. Lightpanda is a selectable web reader backend.
+- [mahirfatih/techcrunch-news-agent](https://github.com/mahirfatih/techcrunch-news-agent) - TechCrunch News Agent - AI Summarizer with Lightpanda + Ollama
 
 ## Language Bindings and Drivers
  
