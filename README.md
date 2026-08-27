@@ -85,6 +85,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [DamageBDD/DamageBDD](https://github.com/DamageBDD/DamageBDD) - Erlang BDD behaviour-verification platform with Lightpanda in its browser layer.
 - [jonathanong/darkpanda](https://github.com/jonathanong/darkpanda) - TypeScript SDK for Lightpanda.
 - [lessless/light_cdp](https://github.com/lessless/light_cdp) - Elixir CDP client that connects directly to Lightpanda over WebSocket. No Node.js required.
+- [crayonnova/lightpanda-nix](https://github.com/crayonnova/lightpanda-nix) - Nix flake for Lightpanda browser.
 
 ## Resources
  
