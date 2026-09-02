@@ -102,6 +102,11 @@ A curated list of cool things people are building with [Lightpanda](https://gith
  
 - [probably-not/lightpanda-wpt-analysis](https://github.com/probably-not/lightpanda-wpt-analysis) - Are We Lightpanda Yet? External tracking of web-platform-test conformance.
 - [pleasedodisturb/web-agent-comparison](https://github.com/pleasedodisturb/web-agent-comparison) - Third-party reproducible benchmark of seven browser-automation MCP servers, including Lightpanda.
+- [api-evangelist/lightpanda](https://github.com/api-evangelist/lightpanda) - catalogue profile of Lightpanda, treating the CDP over WebSocket endpoint as the programmable surface, with APIs.json and MCP artifacts refreshed daily.
+- [KemalG-u/karincaai-lightpanda-rehberi](https://github.com/KemalG-u/karincaai-lightpanda-rehberi) - Turkish getting-started guide covering which tasks suit Lightpanda and when to keep the Chrome path, with a self-run VPS A/B benchmark against Chrome and the raw data published.
+- [Wyzix33/lightpanda-windows-native](https://github.com/Wyzix33/lightpanda-windows-native) - Windows port checkpoint with a vendored boringssl-zig and zig-v8-fork, plus CDP smoke tests and a live login test.
+- [Xavier577/lightpanda-scrapper-example](https://github.com/Xavier577/lightpanda-scrapper-example) - Small worked scraper example, useful as a first reference.
+- [4myOwn/LightPanda-Plugin-System](https://github.com/4myOwn/LightPanda-Plugin-System) - Fork adding a custom plugin system on top of Lightpanda.
 - [Lightpanda Browser](https://github.com/lightpanda-io/browser) - Lightpanda browser repo.
 - [Lightpanda Docs](https://github.com/lightpanda-io/docs) - Documentation.
 - [Lightpanda Demo](https://github.com/lightpanda-io/demo) - Demo repository with Puppeteer examples and benchmarks.
