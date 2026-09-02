@@ -73,6 +73,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [audityourcontracts/pi-lightpanda](https://github.com/audityourcontracts/pi-lightpanda) - Lightpanda headless browser extension for the `pi` coding agent.
 - [Hexpy-Games/butler](https://github.com/Hexpy-Games/butler) - Local-first AI agent runtime for personal and project work. Lightpanda is a selectable web reader backend.
 - [mahirfatih/techcrunch-news-agent](https://github.com/mahirfatih/techcrunch-news-agent) - TechCrunch News Agent - AI Summarizer with Lightpanda + Ollama
+- [mur-run/mur](https://github.com/mur-run/mur) - Rust agent orchestration platform. Its sandboxed deep-research gateway drives `lightpanda fetch` natively as a render engine.
 
 ## Language Bindings and Drivers
  
