@@ -44,6 +44,8 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [cbwln/lightcrawl](https://github.com/cbwln/lightcrawl) - Lightpanda-powered alternative to Firecrawl.
 - [raakkan/agents-api](https://github.com/raakkan/agents-api) - Self-hostable scraping, meta-search and screenshot REST API for agents, with Lightpanda CDP as one of the engines.
 - [endurance-ai/crawler](https://github.com/endurance-ai/crawler) - Fashion SKU crawler for kiko.ai with a dedicated Lightpanda engine path and automatic engine selection for Cafe24 storefronts.
+- [colophon-group/jobseek](https://github.com/colophon-group/jobseek) - Python job crawler replacing Playwright and Chromium with Go and self-hosted Lightpanda, sized for 10M boards and 100M postings.
+- [aasenevan-dot/stock-scanner-dashboard](https://github.com/aasenevan-dot/stock-scanner-dashboard) - Lightpanda-powered live market and r/wallstreetbets intelligence dashboard.
 
 ## AI Agents and Automation
  
@@ -74,6 +76,13 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [Hexpy-Games/butler](https://github.com/Hexpy-Games/butler) - Local-first AI agent runtime for personal and project work. Lightpanda is a selectable web reader backend.
 - [mahirfatih/techcrunch-news-agent](https://github.com/mahirfatih/techcrunch-news-agent) - TechCrunch News Agent - AI Summarizer with Lightpanda + Ollama
 - [mur-run/mur](https://github.com/mur-run/mur) - Rust agent orchestration platform. Its sandboxed deep-research gateway drives `lightpanda fetch` natively as a render engine.
+- [vellum-ai/browser](https://github.com/vellum-ai/browser) - Assistant plugin that acts as a browser. Its settings panel installs Lightpanda and sets it as the default engine alongside Chromium debugging.
+- [Herbertofury/Ferrum-Browser](https://github.com/Herbertofury/Ferrum-Browser) - Agent-native application tester that runs Lightpanda as its direct-CDP fast web lane, alongside Playwright, Electron and Remote WebDriver lanes.
+- [fontvu/hermes-agent-template](https://github.com/fontvu/hermes-agent-template) - Hermes Agent Docker template with a Lightpanda build-arg engine.
+- [veerupandey/loomable](https://github.com/veerupandey/loomable) - Python deep-agent framework with a sandboxed shell layer and a bundled browser skill that drives the Lightpanda MCP server.
+- [OthmaneBlial/web-task-agent](https://github.com/OthmaneBlial/web-task-agent) - TypeScript local-first research agent that turns a question into an auditable decision package with sources and contradictions attached.
+- [0x13omb3r/0xroboros-browser](https://github.com/0x13omb3r/0xroboros-browser) - Hard fork building HNS/DANE resolution and agent-verdict features on top of Lightpanda, with its own OCI image and docs.
+- [suissa/PurePanda-Positron-3P](https://github.com/suissa/PurePanda-Positron-3P) - Electron alternative for memory-safe desktop apps built on Lightpanda.
 
 ## Language Bindings and Drivers
  
@@ -87,6 +96,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [jonathanong/darkpanda](https://github.com/jonathanong/darkpanda) - TypeScript SDK for Lightpanda.
 - [lessless/light_cdp](https://github.com/lessless/light_cdp) - Elixir CDP client that connects directly to Lightpanda over WebSocket. No Node.js required.
 - [crayonnova/lightpanda-nix](https://github.com/crayonnova/lightpanda-nix) - Nix flake for Lightpanda browser.
+- [tonyputi/traverse](https://github.com/tonyputi/traverse) - web browsing for Laravel. Lightpanda is the first driver, with markdown and semantic-tree output for agents.
 
 ## Resources
  
