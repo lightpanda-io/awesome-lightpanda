@@ -83,6 +83,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [OthmaneBlial/web-task-agent](https://github.com/OthmaneBlial/web-task-agent) - TypeScript local-first research agent that turns a question into an auditable decision package with sources and contradictions attached.
 - [0x13omb3r/0xroboros-browser](https://github.com/0x13omb3r/0xroboros-browser) - Hard fork building HNS/DANE resolution and agent-verdict features on top of Lightpanda, with its own OCI image and docs.
 - [suissa/PurePanda-Positron-3P](https://github.com/suissa/PurePanda-Positron-3P) - Electron alternative for memory-safe desktop apps built on Lightpanda.
+- [Raknaos/lightpanda-session-bridge](https://github.com/Raknaos/lightpanda-session-bridge) - Chrome extension and Python relay that hands authenticated sessions (Google OAuth, Passkeys, SSO, 2FA) from a real browser into an isolated Lightpanda CDP runtime for AI agents.
 
 ## Language Bindings and Drivers
  
