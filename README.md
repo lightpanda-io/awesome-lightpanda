@@ -46,6 +46,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [endurance-ai/crawler](https://github.com/endurance-ai/crawler) - Fashion SKU crawler for kiko.ai with a dedicated Lightpanda engine path and automatic engine selection for Cafe24 storefronts.
 - [colophon-group/jobseek](https://github.com/colophon-group/jobseek) - Python job crawler replacing Playwright and Chromium with Go and self-hosted Lightpanda, sized for 10M boards and 100M postings.
 - [aasenevan-dot/stock-scanner-dashboard](https://github.com/aasenevan-dot/stock-scanner-dashboard) - Lightpanda-powered live market and r/wallstreetbets intelligence dashboard.
+- [Ejokey/lightjev](https://github.com/Ejokey/lightjev) - Two-layer crawler: Lightpanda renders the page, then Jev answers two typed questions instead of an LLM call per step. About $0.0001 per decision.
 
 ## AI Agents and Automation
  
@@ -84,6 +85,8 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [0x13omb3r/0xroboros-browser](https://github.com/0x13omb3r/0xroboros-browser) - Hard fork building HNS/DANE resolution and agent-verdict features on top of Lightpanda, with its own OCI image and docs.
 - [suissa/PurePanda-Positron-3P](https://github.com/suissa/PurePanda-Positron-3P) - Electron alternative for memory-safe desktop apps built on Lightpanda.
 - [Raknaos/lightpanda-session-bridge](https://github.com/Raknaos/lightpanda-session-bridge) - Chrome extension and Python relay that hands authenticated sessions (Google OAuth, Passkeys, SSO, 2FA) from a real browser into an isolated Lightpanda CDP runtime for AI agents.
+- [Cloudgeni-ai/opengeni](https://github.com/Cloudgeni-ai/opengeni) - Self-hostable agentic service platform. Drives Lightpanda as its managed browser engine, with process recovery and input/typing validation built into the CDP driver.
+- [Privasys/container-app-lightpanda](https://github.com/Privasys/container-app-lightpanda) - Container app exposing Lightpanda as an MCP `browse` tool, deployable to hardware-attested TDX enclaves.
 
 ## Language Bindings and Drivers
  
