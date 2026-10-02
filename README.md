@@ -47,6 +47,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [colophon-group/jobseek](https://github.com/colophon-group/jobseek) - Python job crawler replacing Playwright and Chromium with Go and self-hosted Lightpanda, sized for 10M boards and 100M postings.
 - [aasenevan-dot/stock-scanner-dashboard](https://github.com/aasenevan-dot/stock-scanner-dashboard) - Lightpanda-powered live market and r/wallstreetbets intelligence dashboard.
 - [Ejokey/lightjev](https://github.com/Ejokey/lightjev) - Two-layer crawler: Lightpanda renders the page, then Jev answers two typed questions instead of an LLM call per step. About $0.0001 per decision.
+- [coolapso/searchbase](https://github.com/coolapso/searchbase) - Self-hosted, privacy-focused search engine for AI agents and LLMs, with a built-in MCP server and REST API. Ships a Lightpanda fetch worker.
 
 ## AI Agents and Automation
  
