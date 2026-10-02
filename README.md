@@ -87,6 +87,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [Raknaos/lightpanda-session-bridge](https://github.com/Raknaos/lightpanda-session-bridge) - Chrome extension and Python relay that hands authenticated sessions (Google OAuth, Passkeys, SSO, 2FA) from a real browser into an isolated Lightpanda CDP runtime for AI agents.
 - [Cloudgeni-ai/opengeni](https://github.com/Cloudgeni-ai/opengeni) - Self-hostable agentic service platform. Drives Lightpanda as its managed browser engine, with process recovery and input/typing validation built into the CDP driver.
 - [Privasys/container-app-lightpanda](https://github.com/Privasys/container-app-lightpanda) - Container app exposing Lightpanda as an MCP `browse` tool, deployable to hardware-attested TDX enclaves.
+- [saitanay/panda97](https://github.com/saitanay/panda97) - Lightpanda browser automation for the pi coding agent, installable with `pi install npm:panda97`. Launches a separate Lightpanda process per tab over CDP.
 
 ## Language Bindings and Drivers
  
