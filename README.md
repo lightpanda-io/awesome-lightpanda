@@ -89,6 +89,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [Cloudgeni-ai/opengeni](https://github.com/Cloudgeni-ai/opengeni) - Self-hostable agentic service platform. Drives Lightpanda as its managed browser engine, with process recovery and input/typing validation built into the CDP driver.
 - [Privasys/container-app-lightpanda](https://github.com/Privasys/container-app-lightpanda) - Container app exposing Lightpanda as an MCP `browse` tool, deployable to hardware-attested TDX enclaves.
 - [saitanay/panda97](https://github.com/saitanay/panda97) - Lightpanda browser automation for the pi coding agent, installable with `pi install npm:panda97`. Launches a separate Lightpanda process per tab over CDP.
+- [harikishantk/mint-webmcp](https://github.com/harikishantk/mint-webmcp) - Headless WebMCP-style MCP server that compiles HTML forms into dynamic form tools via Lightpanda `detectForms`, with safe fill-before-submit and PandaScript export.
 
 ## Language Bindings and Drivers
  
