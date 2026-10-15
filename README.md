@@ -107,6 +107,9 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [stanleyrprose/mac-browser-plane](https://github.com/stanleyrprose/mac-browser-plane) - Browser execution service for agents running on a Mac mini (exposed over MCP) with Chrome and Lightpanda engines.
 - [john-walks-slow/render-browser-gateway](https://github.com/john-walks-slow/render-browser-gateway) - Lightpanda browser gateway for AI agents, sized to run on free hosting tiers.
 - [AnEntrypoint/agentplug-lightpanda-bin](https://github.com/AnEntrypoint/agentplug-lightpanda-bin) - WebAssembly build of an agentplug plugin for Lightpanda, published by CI.
+- [profullstack/x402-client](https://github.com/profullstack/x402-client) - Client for x402 web payments, with adapters for Lightpanda over CDP and its CLI.
+- [sscode/browserlab](https://github.com/sscode/browserlab) - Correctness and regression test suite for browser automation across Chrome and Lightpanda.
+- [florianilch/lightpanda-gateway](https://github.com/florianilch/lightpanda-gateway) - Gateway for running agent and scripted Lightpanda workloads on private infrastructure, with process lifecycle and concurrency control.
 
 ## Language Bindings and Drivers
  
@@ -124,6 +127,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [deepwatrcreatur/nix-lightpanda](https://github.com/deepwatrcreatur/nix-lightpanda) - Nix package for Lightpanda.
 - [surf-ex/surf_board](https://github.com/surf-ex/surf_board) - Elixir library driving Chrome or Lightpanda over CDP and WebDriver BiDi.
 - [rcgeorge23/lightpanda-java](https://github.com/rcgeorge23/lightpanda-java) - Experimental Java binding built on the draft C embedding API proposed in [lightpanda-io/browser#3096](https://github.com/lightpanda-io/browser/pull/3096).
+- [qidiai/lightpanda-windows-port](https://github.com/qidiai/lightpanda-windows-port) - Community port of Lightpanda to native Windows.
 
 ## Resources
  
