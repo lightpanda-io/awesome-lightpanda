@@ -127,6 +127,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [deepwatrcreatur/nix-lightpanda](https://github.com/deepwatrcreatur/nix-lightpanda) - Nix package for Lightpanda.
 - [surf-ex/surf_board](https://github.com/surf-ex/surf_board) - Elixir library driving Chrome or Lightpanda over CDP and WebDriver BiDi.
 - [rcgeorge23/lightpanda-java](https://github.com/rcgeorge23/lightpanda-java) - Experimental Java binding built on the draft C embedding API proposed in [lightpanda-io/browser#3096](https://github.com/lightpanda-io/browser/pull/3096).
+- [Wyzix33/lightpanda-windows-native](https://github.com/Wyzix33/lightpanda-windows-native) - Windows port checkpoint with a vendored boringssl-zig and zig-v8-fork, plus CDP smoke tests and a live login test.
 - [qidiai/lightpanda-windows-port](https://github.com/qidiai/lightpanda-windows-port) - Community port of Lightpanda to native Windows.
 
 ## Resources
@@ -135,8 +136,9 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [pleasedodisturb/web-agent-comparison](https://github.com/pleasedodisturb/web-agent-comparison) - Third-party reproducible benchmark of seven browser-automation MCP servers, including Lightpanda.
 - [api-evangelist/lightpanda](https://github.com/api-evangelist/lightpanda) - Catalogue profile of Lightpanda, treating the CDP over WebSocket endpoint as the programmable surface, with APIs.json and MCP artifacts refreshed daily.
 - [KemalG-u/karincaai-lightpanda-rehberi](https://github.com/KemalG-u/karincaai-lightpanda-rehberi) - Turkish getting-started guide covering which tasks suit Lightpanda and when to keep the Chrome path, with a self-run VPS A/B benchmark against Chrome and the raw data published.
-- [Wyzix33/lightpanda-windows-native](https://github.com/Wyzix33/lightpanda-windows-native) - Windows port checkpoint with a vendored boringssl-zig and zig-v8-fork, plus CDP smoke tests and a live login test.
 - [4myOwn/LightPanda-Plugin-System](https://github.com/4myOwn/LightPanda-Plugin-System) - Fork adding a custom plugin system on top of Lightpanda.
+- [florianilch/lightpanda-gateway](https://github.com/florianilch/lightpanda-gateway) - Gateway for running agent and scripted Lightpanda workloads on private infrastructure, with process lifecycle and concurrency control.
+- [triposat/browser-automation-bench](https://github.com/triposat/browser-automation-bench) - Benchmark comparing Playwright, Puppeteer, Selenium, WebDriver BiDi and Lightpanda.
 - [Lightpanda Browser](https://github.com/lightpanda-io/browser) - Lightpanda browser repo.
 - [Lightpanda Docs](https://github.com/lightpanda-io/docs) - Documentation.
 - [Lightpanda Demo](https://github.com/lightpanda-io/demo) - Demo repository with Puppeteer examples and benchmarks.
