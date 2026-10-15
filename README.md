@@ -48,6 +48,11 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [aasenevan-dot/stock-scanner-dashboard](https://github.com/aasenevan-dot/stock-scanner-dashboard) - Lightpanda-powered live market and r/wallstreetbets intelligence dashboard.
 - [Ejokey/lightjev](https://github.com/Ejokey/lightjev) - Two-layer crawler: Lightpanda renders the page, then Jev answers two typed questions instead of an LLM call per step. About $0.0001 per decision.
 - [coolapso/searchbase](https://github.com/coolapso/searchbase) - Self-hosted, privacy-focused search engine for AI agents and LLMs, with a built-in MCP server and REST API. Ships a Lightpanda fetch worker.
+- [PedriniCarbelini/lightpanda-headless-browser](https://github.com/PedriniCarbelini/lightpanda-headless-browser) - Hybrid crawler that renders pages locally with Lightpanda and falls back to hosted Chrome.
+- [dmitkov28/aws-lambda-reddit-scraper-lightpanda](https://github.com/dmitkov28/aws-lambda-reddit-scraper-lightpanda) - Reddit scraper running Lightpanda inside AWS Lambda.
+- [yulinfeng000/lightpanda-webfetch](https://github.com/yulinfeng000/lightpanda-webfetch) - Web fetch API for LLMs, powered by Lightpanda.
+- [hermespromox/browserjev](https://github.com/hermespromox/browserjev) - Low-memory web page classification combining HTTPX, Lightpanda and Jev.
+- [paulmeller/camopanda](https://github.com/paulmeller/camopanda) - Lightpanda behind a header-rewriting HTTPS proxy, exposed over CDP for browser agents.
 
 ## AI Agents and Automation
  
@@ -90,6 +95,18 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [Privasys/container-app-lightpanda](https://github.com/Privasys/container-app-lightpanda) - Container app exposing Lightpanda as an MCP `browse` tool, deployable to hardware-attested TDX enclaves.
 - [saitanay/panda97](https://github.com/saitanay/panda97) - Lightpanda browser automation for the pi coding agent, installable with `pi install npm:panda97`. Launches a separate Lightpanda process per tab over CDP.
 - [harikishantk/mint-webmcp](https://github.com/harikishantk/mint-webmcp) - Headless WebMCP-style MCP server that compiles HTML forms into dynamic form tools via Lightpanda `detectForms`, with safe fill-before-submit and PandaScript export.
+- [miraccan00/ig-follow-tracker](https://github.com/miraccan00/ig-follow-tracker) - Small local app built on Lightpanda that tracks Instagram unfollows.
+- [Guibibi/pi-lightpanda-extension](https://github.com/Guibibi/pi-lightpanda-extension) - Extension for the `pi` coding agent with Lightpanda web tools, plus Playwright for screenshots.
+- [bhumitschaudhry/Meleys](https://github.com/bhumitschaudhry/Meleys) - Rust runtime giving LLM agents control of Lightpanda and Chromium over MCP and REST.
+- [lurissarie/local-agent-browser](https://github.com/lurissarie/local-agent-browser) - Local personal agent browser built on Lightpanda.
+- [Tariq-Anjum/ai-web-agent-stack](https://github.com/Tariq-Anjum/ai-web-agent-stack) - Local AI web agent stack combining SearXNG, Crawl4AI and agent-browser running on Lightpanda.
+- [outmost9271/pi-browser-switch](https://github.com/outmost9271/pi-browser-switch) - `pi` extension that switches between local Chrome and Lightpanda containers.
+- [tonyputi/pi-lightpanda](https://github.com/tonyputi/pi-lightpanda) - Extension giving the `pi` coding agent a Lightpanda browser.
+- [abdulaaly/omnifast-browser](https://github.com/abdulaaly/omnifast-browser) - Web agent with pluggable browser engines, including Lightpanda.
+- [BIackFIame/canvastty-plugin-lightpanda](https://github.com/BIackFIame/canvastty-plugin-lightpanda) - Optional Lightpanda engine for background browsing by CanvasTTY agents.
+- [stanleyrprose/mac-browser-plane](https://github.com/stanleyrprose/mac-browser-plane) - Browser execution service for agents running on a Mac mini (exposed over MCP) with Chrome and Lightpanda engines.
+- [john-walks-slow/render-browser-gateway](https://github.com/john-walks-slow/render-browser-gateway) - Lightpanda browser gateway for AI agents, sized to run on free hosting tiers.
+- [AnEntrypoint/agentplug-lightpanda-bin](https://github.com/AnEntrypoint/agentplug-lightpanda-bin) - WebAssembly build of an agentplug plugin for Lightpanda, published by CI.
 
 ## Language Bindings and Drivers
  
@@ -104,6 +121,9 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [lessless/light_cdp](https://github.com/lessless/light_cdp) - Elixir CDP client that connects directly to Lightpanda over WebSocket. No Node.js required.
 - [crayonnova/lightpanda-nix](https://github.com/crayonnova/lightpanda-nix) - Nix flake for Lightpanda browser.
 - [tonyputi/traverse](https://github.com/tonyputi/traverse) - web browsing for Laravel. Lightpanda is the first driver, with markdown and semantic-tree output for agents.
+- [deepwatrcreatur/nix-lightpanda](https://github.com/deepwatrcreatur/nix-lightpanda) - Nix package for Lightpanda.
+- [surf-ex/surf_board](https://github.com/surf-ex/surf_board) - Elixir library driving Chrome or Lightpanda over CDP and WebDriver BiDi.
+- [rcgeorge23/lightpanda-java](https://github.com/rcgeorge23/lightpanda-java) - Experimental Java binding built on the draft C embedding API proposed in [lightpanda-io/browser#3096](https://github.com/lightpanda-io/browser/pull/3096).
 
 ## Resources
  
