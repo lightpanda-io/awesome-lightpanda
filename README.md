@@ -58,6 +58,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
  
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - Hermes supports Lightpanda as a local agent-browser option, with automatic Chrome fallback.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Vercel's browser automation CLI for AI agents. Supports Lightpanda as an engine via `--engine lightpanda` as a faster, lighter alternative to Chrome. Written in Rust.
+- [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - End-to-end testing framework for Node.js. Ships a Lightpanda helper that starts `lightpanda serve` itself or attaches to a running instance.
 - [webcoyote/sandvault](https://github.com/webcoyote/sandvault) - Run AI agents isolated in a macOS user account and sandbox-exec, with sandboxed access to Lightpanda.
 - [ulpi-io/browse](https://github.com/ulpi-io/browse) - Browsing tool by ULPI for AI agent workflows, powered by Lightpanda.
 - [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) - OpenClaw rebuilt in Go with multi-tenant isolation and native concurrency. Ships a Lightpanda sidecar overlay for docker-compose, with Lightpanda-aware remote browser handling.
