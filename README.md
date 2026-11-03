@@ -34,6 +34,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
  
 - [monostate/node-scraper](https://github.com/monostate/node-scraper) - Smart Node.js scraper that automatically switches between fetch, Lightpanda headless, and full Puppeteer with intelligent fallback. Includes AI-powered Q&A, PDF parsing, and bulk scraping with progress tracking.
 - [tylergibbs1/feedstock](https://github.com/tylergibbs1/feedstock) - High-performance web crawler and scraper for TypeScript, powered by Bun. Supports Lightpanda, local or cloud, as a browser backend alongside Playwright and generic CDP.
+- [SurendraTamang/scrapy-lightpanda](https://github.com/SurendraTamang/scrapy-lightpanda) - Scrapy download handler that plugs Lightpanda into scrapy-playwright for JavaScript-rendered pages.
 - [us/crw](https://github.com/us/crw) - Open-source web scraper built for AI agents with a built-in MCP server. Single Rust binary, ~6 MB idle RAM. Uses Lightpanda for JS rendering. Firecrawl-compatible API.
 - [ancs21/playpanda](https://github.com/ancs21/playpanda) - Any URL to LLM-ready markdown. Three-tier engine: HTTP → Lightpanda → CloakBrowser. Written in Zig.
 - [tokimo-lab/tokimo-package-web-fetch](https://github.com/tokimo-lab/tokimo-package-web-fetch) - Unified Rust fetcher: plain HTTP, headless browser via Lightpanda, or Cloudflare bypass, with Readability denoising.
@@ -51,12 +52,15 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [yulinfeng000/lightpanda-webfetch](https://github.com/yulinfeng000/lightpanda-webfetch) - Web fetch API for LLMs, powered by Lightpanda.
 - [hermespromox/browserjev](https://github.com/hermespromox/browserjev) - Low-memory web page classification combining HTTPX, Lightpanda and Jev.
 - [paulmeller/camopanda](https://github.com/paulmeller/camopanda) - Lightpanda behind a header-rewriting HTTPS proxy, exposed over CDP for browser agents.
+- [TulipFarm/huntsman](https://github.com/TulipFarm/huntsman) - Self-hosted scraper that turns pages into clean Markdown behind a Firecrawl-compatible `/v1/scrape` API, rendering JavaScript with Lightpanda.
 
 ## AI Agents and Automation
  
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Open-source AI assistant running on your own computer. Its browser extension ships a Lightpanda engine, with a pinned Docker sidecar for lightweight installs.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - Hermes supports Lightpanda as a local agent-browser option, with automatic Chrome fallback.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Vercel's browser automation CLI for AI agents. Supports Lightpanda as an engine via `--engine lightpanda` as a faster, lighter alternative to Chrome. Written in Rust.
 - [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - End-to-end testing framework for Node.js. Ships a Lightpanda helper that starts `lightpanda serve` itself or attaches to a running instance.
+- [tester-army/e2e](https://github.com/tester-army/e2e) - End-to-end testing framework for web and mobile apps. The `@e2e-dev/lightpanda` provider starts one `lightpanda serve` per worker.
 - [webcoyote/sandvault](https://github.com/webcoyote/sandvault) - Run AI agents isolated in a macOS user account and sandbox-exec, with sandboxed access to Lightpanda.
 - [ulpi-io/browse](https://github.com/ulpi-io/browse) - Browsing tool by ULPI for AI agent workflows, powered by Lightpanda.
 - [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) - OpenClaw rebuilt in Go with multi-tenant isolation and native concurrency. Ships a Lightpanda sidecar overlay for docker-compose, with Lightpanda-aware remote browser handling.
@@ -108,6 +112,10 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [profullstack/x402-client](https://github.com/profullstack/x402-client) - Client for x402 web payments, with adapters for Lightpanda over CDP and its CLI.
 - [sscode/browserlab](https://github.com/sscode/browserlab) - Correctness and regression test suite for browser automation across Chrome and Lightpanda.
 - [florianilch/lightpanda-gateway](https://github.com/florianilch/lightpanda-gateway) - Gateway for running agent and scripted Lightpanda workloads on private infrastructure, with process lifecycle and concurrency control.
+- [andrey-usa/navigera](https://github.com/andrey-usa/navigera) - Rust CLI and MCP server that lets agents drive a browser, with Lightpanda as an experimental engine (`--engine lightpanda`).
+- [mcc0nnell/lightpanda-agent-bridge](https://github.com/mcc0nnell/lightpanda-agent-bridge) - Local MCP stdio bridge for Lightpanda over Unix-domain CDP WebSockets.
+- [YekaiY/lightpanda-skill](https://github.com/YekaiY/lightpanda-skill) - Agent skill that teaches AI agents to drive Lightpanda, installable with npx.
+- [aakshintala/fiber-lightpanda](https://github.com/aakshintala/fiber-lightpanda) - Fiber extension adding a `web_render` tool that renders JavaScript pages to Markdown with Lightpanda.
 
 ## Language Bindings and Drivers
  
@@ -127,6 +135,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [rcgeorge23/lightpanda-java](https://github.com/rcgeorge23/lightpanda-java) - Experimental Java binding built on the draft C embedding API proposed in [lightpanda-io/browser#3096](https://github.com/lightpanda-io/browser/pull/3096).
 - [Wyzix33/lightpanda-windows-native](https://github.com/Wyzix33/lightpanda-windows-native) - Windows port checkpoint with a vendored boringssl-zig and zig-v8-fork, plus CDP smoke tests and a live login test.
 - [qidiai/lightpanda-windows-port](https://github.com/qidiai/lightpanda-windows-port) - Community port of Lightpanda to native Windows.
+- [mattneel/lightpanda_ex](https://github.com/mattneel/lightpanda_ex) - Mix tasks to install and run Lightpanda from Elixir, modeled on the Phoenix `esbuild` package.
 
 ## Resources
  
@@ -136,6 +145,9 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [KemalG-u/karincaai-lightpanda-rehberi](https://github.com/KemalG-u/karincaai-lightpanda-rehberi) - Turkish getting-started guide covering which tasks suit Lightpanda and when to keep the Chrome path, with a self-run VPS A/B benchmark against Chrome and the raw data published.
 - [fisheeplife-beep/cn-deploy-lightpanda](https://github.com/fisheeplife-beep/cn-deploy-lightpanda) - Unofficial Chinese deployment companion covering China-network installs, Docker, CDP smoke scripts, and common pitfalls.
 - [triposat/browser-automation-bench](https://github.com/triposat/browser-automation-bench) - Benchmark comparing Playwright, Puppeteer, Selenium, WebDriver BiDi and Lightpanda.
+- [laghoule/lightpanda_browser](https://github.com/laghoule/lightpanda_browser) - Helm chart deploying Lightpanda as a CDP and WebDriver server on Kubernetes.
+- [Va55/lightpanda-musl](https://github.com/Va55/lightpanda-musl) - Fully static musl builds of Lightpanda for x86_64 and 32-bit x86, with the build recipe.
+- [sidalit/lightpanda-snap](https://github.com/sidalit/lightpanda-snap) - Snap packaging for Lightpanda.
 - [Lightpanda Browser](https://github.com/lightpanda-io/browser) - Lightpanda browser repo.
 - [Lightpanda Docs](https://github.com/lightpanda-io/docs) - Documentation.
 - [Lightpanda Demo](https://github.com/lightpanda-io/demo) - Demo repository with Puppeteer examples and benchmarks.
