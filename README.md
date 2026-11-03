@@ -32,11 +32,9 @@ A curated list of cool things people are building with [Lightpanda](https://gith
  
 ## Web Data Extraction
  
-- [4ier/neo](https://github.com/4ier/neo) - Turn any web app into an API. Chrome extension that captures browser traffic, auto-generates schemas, and lets AI replay APIs directly. Supports Lightpanda as a fast headless backend for AI agents and scraping.
 - [monostate/node-scraper](https://github.com/monostate/node-scraper) - Smart Node.js scraper that automatically switches between fetch, Lightpanda headless, and full Puppeteer with intelligent fallback. Includes AI-powered Q&A, PDF parsing, and bulk scraping with progress tracking.
 - [tylergibbs1/feedstock](https://github.com/tylergibbs1/feedstock) - High-performance web crawler and scraper for TypeScript, powered by Bun. Supports Lightpanda, local or cloud, as a browser backend alongside Playwright and generic CDP.
 - [us/crw](https://github.com/us/crw) - Open-source web scraper built for AI agents with a built-in MCP server. Single Rust binary, ~6 MB idle RAM. Uses Lightpanda for JS rendering. Firecrawl-compatible API.
-- [seaavey/SBrowser](https://github.com/seaavey/SBrowser) - Web search and scraping REST API powered by Lightpanda for JavaScript rendering and Markdown extraction, with a Redis anti-DDoS shield.
 - [ancs21/playpanda](https://github.com/ancs21/playpanda) - Any URL to LLM-ready markdown. Three-tier engine: HTTP → Lightpanda → CloakBrowser. Written in Zig.
 - [tokimo-lab/tokimo-package-web-fetch](https://github.com/tokimo-lab/tokimo-package-web-fetch) - Unified Rust fetcher: plain HTTP, headless browser via Lightpanda, or Cloudflare bypass, with Readability denoising.
 - [KakkoiDev/lightpanda-proxy](https://github.com/KakkoiDev/lightpanda-proxy) - Transparent HTTP proxy that renders JavaScript through Lightpanda before handing HTML to text browsers like w3m.
@@ -71,7 +69,6 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode.
 - [hasindu-madushan/slim-atlas-ai](https://github.com/hasindu-madushan/slim-atlas-ai) - An MCP server providing lightweight browser automation using Lightpanda for LLMs.
 - [prokopis3/webrain](https://github.com/prokopis3/webrain) - Rust MCP server for LLM-driven browser automation and web scraping. Runs Chrome, Lightpanda and Obscura through a single CDP backend.
-- [veerupandey/kageha_agent](https://github.com/veerupandey/kageha_agent) - Thin agent kernel: plan, act, verify. `kageha setup` installs the Lightpanda nightly when the browser pack is enabled, falling back to Chromium.
 - [amurru/hakase](https://github.com/amurru/hakase) - Go AI research and navigation agent. Ships a `lightpanda` MCP server in its default tool configuration.
 - [agentjido/jido_browser](https://github.com/agentjido/jido_browser) - Browser automation actions for Jido AI agents, with `mix jido_browser.install lightpanda` as a first-class driver.
 - [Freakboy/pandamcp](https://github.com/Freakboy/pandamcp) - MCP bridge for Lightpanda/CDP browsers with stdio, SSE and Streamable HTTP transports.
@@ -138,8 +135,6 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [api-evangelist/lightpanda](https://github.com/api-evangelist/lightpanda) - Catalogue profile of Lightpanda, treating the CDP over WebSocket endpoint as the programmable surface, with APIs.json and MCP artifacts refreshed daily.
 - [KemalG-u/karincaai-lightpanda-rehberi](https://github.com/KemalG-u/karincaai-lightpanda-rehberi) - Turkish getting-started guide covering which tasks suit Lightpanda and when to keep the Chrome path, with a self-run VPS A/B benchmark against Chrome and the raw data published.
 - [fisheeplife-beep/cn-deploy-lightpanda](https://github.com/fisheeplife-beep/cn-deploy-lightpanda) - Unofficial Chinese deployment companion covering China-network installs, Docker, CDP smoke scripts, and common pitfalls.
-- [4myOwn/LightPanda-Plugin-System](https://github.com/4myOwn/LightPanda-Plugin-System) - Fork adding a custom plugin system on top of Lightpanda.
-- [florianilch/lightpanda-gateway](https://github.com/florianilch/lightpanda-gateway) - Gateway for running agent and scripted Lightpanda workloads on private infrastructure, with process lifecycle and concurrency control.
 - [triposat/browser-automation-bench](https://github.com/triposat/browser-automation-bench) - Benchmark comparing Playwright, Puppeteer, Selenium, WebDriver BiDi and Lightpanda.
 - [Lightpanda Browser](https://github.com/lightpanda-io/browser) - Lightpanda browser repo.
 - [Lightpanda Docs](https://github.com/lightpanda-io/docs) - Documentation.
