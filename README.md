@@ -137,6 +137,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [pleasedodisturb/web-agent-comparison](https://github.com/pleasedodisturb/web-agent-comparison) - Third-party reproducible benchmark of seven browser-automation MCP servers, including Lightpanda.
 - [api-evangelist/lightpanda](https://github.com/api-evangelist/lightpanda) - Catalogue profile of Lightpanda, treating the CDP over WebSocket endpoint as the programmable surface, with APIs.json and MCP artifacts refreshed daily.
 - [KemalG-u/karincaai-lightpanda-rehberi](https://github.com/KemalG-u/karincaai-lightpanda-rehberi) - Turkish getting-started guide covering which tasks suit Lightpanda and when to keep the Chrome path, with a self-run VPS A/B benchmark against Chrome and the raw data published.
+- [fisheeplife-beep/cn-deploy-lightpanda](https://github.com/fisheeplife-beep/cn-deploy-lightpanda) - Unofficial Chinese deployment companion covering China-network installs, Docker, CDP smoke scripts, and common pitfalls.
 - [4myOwn/LightPanda-Plugin-System](https://github.com/4myOwn/LightPanda-Plugin-System) - Fork adding a custom plugin system on top of Lightpanda.
 - [florianilch/lightpanda-gateway](https://github.com/florianilch/lightpanda-gateway) - Gateway for running agent and scripted Lightpanda workloads on private infrastructure, with process lifecycle and concurrency control.
 - [triposat/browser-automation-bench](https://github.com/triposat/browser-automation-bench) - Benchmark comparing Playwright, Puppeteer, Selenium, WebDriver BiDi and Lightpanda.
