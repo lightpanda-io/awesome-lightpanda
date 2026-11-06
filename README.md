@@ -148,7 +148,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [fisheeplife-beep/cn-deploy-lightpanda](https://github.com/fisheeplife-beep/cn-deploy-lightpanda) - Unofficial Chinese deployment companion covering China-network installs, Docker, CDP smoke scripts, and common pitfalls.
 - [triposat/browser-automation-bench](https://github.com/triposat/browser-automation-bench) - Benchmark comparing Playwright, Puppeteer, Selenium, WebDriver BiDi and Lightpanda.
 - [laghoule/lightpanda_browser](https://github.com/laghoule/lightpanda_browser) - Helm chart deploying Lightpanda as a CDP and WebDriver server on Kubernetes.
-- [Va55/lightpanda-musl](https://github.com/Va55/lightpanda-musl) - Fully static musl builds of Lightpanda for x86_64 and 32-bit x86, with the build recipe.
+- [Va55/lightpanda-static](https://github.com/Va55/lightpanda-static) - Fully static musl builds of Lightpanda for x86_64 and 32-bit x86, CI-built, reproducible and attested, with the i386 port patches and build recipe.
 - [sidalit/lightpanda-snap](https://github.com/sidalit/lightpanda-snap) - Snap packaging for Lightpanda.
 - [Lightpanda Browser](https://github.com/lightpanda-io/browser) - Lightpanda browser repo.
 - [Lightpanda Docs](https://github.com/lightpanda-io/docs) - Documentation.
