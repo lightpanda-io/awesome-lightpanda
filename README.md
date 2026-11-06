@@ -53,6 +53,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [hermespromox/browserjev](https://github.com/hermespromox/browserjev) - Low-memory web page classification combining HTTPX, Lightpanda and Jev.
 - [paulmeller/camopanda](https://github.com/paulmeller/camopanda) - Lightpanda behind a header-rewriting HTTPS proxy, exposed over CDP for browser agents.
 - [TulipFarm/huntsman](https://github.com/TulipFarm/huntsman) - Self-hosted scraper that turns pages into clean Markdown behind a Firecrawl-compatible `/v1/scrape` API, rendering JavaScript with Lightpanda.
+- [NiltonGarnica/lightpanda-link-tree](https://github.com/NiltonGarnica/lightpanda-link-tree) - Python microservice that returns a page's link tree as JSON, three levels deep. Opens pages with Lightpanda to find JavaScript-generated links.
 
 ## AI Agents and Automation
  
@@ -116,6 +117,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [mcc0nnell/lightpanda-agent-bridge](https://github.com/mcc0nnell/lightpanda-agent-bridge) - Local MCP stdio bridge for Lightpanda over Unix-domain CDP WebSockets.
 - [YekaiY/lightpanda-skill](https://github.com/YekaiY/lightpanda-skill) - Agent skill that teaches AI agents to drive Lightpanda, installable with npx.
 - [aakshintala/fiber-lightpanda](https://github.com/aakshintala/fiber-lightpanda) - Fiber extension adding a `web_render` tool that renders JavaScript pages to Markdown with Lightpanda.
+- [LdwS123/Instonct](https://github.com/LdwS123/Instonct) - Self-hosted personal AI agent for Telegram and WhatsApp, in Python. Uses Lightpanda over MCP as its browser for web reading and form filling.
 
 ## Language Bindings and Drivers
  
