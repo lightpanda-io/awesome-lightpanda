@@ -54,6 +54,9 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [paulmeller/camopanda](https://github.com/paulmeller/camopanda) - Lightpanda behind a header-rewriting HTTPS proxy, exposed over CDP for browser agents.
 - [TulipFarm/huntsman](https://github.com/TulipFarm/huntsman) - Self-hosted scraper that turns pages into clean Markdown behind a Firecrawl-compatible `/v1/scrape` API, rendering JavaScript with Lightpanda.
 - [NiltonGarnica/lightpanda-link-tree](https://github.com/NiltonGarnica/lightpanda-link-tree) - Python microservice that returns a page's link tree as JSON, three levels deep. Opens pages with Lightpanda to find JavaScript-generated links.
+- [faisallbhr/logammulia-scraper](https://github.com/faisallbhr/logammulia-scraper) - Node.js scraper for ANTAM gold price history, with Telegram alerts and a GitHub Pages chart. Uses Lightpanda with Puppeteer Core to read the price charts.
+- [Amz34/hyper-scrape](https://github.com/Amz34/hyper-scrape) - Web extraction and RAG ingestion engine in three tiers: Scrapling, Lightpanda (Zig and V8) for JavaScript pages, and Crawl4AI as the heavy fallback.
+- [bharathvbcr/vani](https://github.com/bharathvbcr/vani) - Job-listing reader in Go that fetches public employer career pages. Custom careers pages are read through one Lightpanda process per board.
 
 ## AI Agents and Automation
  
@@ -118,6 +121,10 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [YekaiY/lightpanda-skill](https://github.com/YekaiY/lightpanda-skill) - Agent skill that teaches AI agents to drive Lightpanda, installable with npx.
 - [aakshintala/fiber-lightpanda](https://github.com/aakshintala/fiber-lightpanda) - Fiber extension adding a `web_render` tool that renders JavaScript pages to Markdown with Lightpanda.
 - [LdwS123/Instonct](https://github.com/LdwS123/Instonct) - Self-hosted personal AI agent for Telegram and WhatsApp, in Python. Uses Lightpanda over MCP as its browser for web reading and form filling.
+- [kuanbandu/dsh-lightpanda-mcp](https://github.com/kuanbandu/dsh-lightpanda-mcp) - DeepSeek Harness (DSH) plugin bundle that mounts `lightpanda mcp` as an MCP tool server for agents.
+- [thiagoyb11/UTNFRSF-CampusVirtual-MCP](https://github.com/thiagoyb11/UTNFRSF-CampusVirtual-MCP) - MCP server for the UTN FRSF virtual campus that reads courses, calendars and resources and submits assignments, driving the site with Lightpanda.
+- [fufay/dsh-lightpanda-skill](https://github.com/fufay/dsh-lightpanda-skill) - Headless browsing skill for DSH and Whale agents: stateless fetch plus stateful cookie and session work over CDP, with the Lightpanda binary downloaded and checked by sha256.
+- [operatecenter/operator-starter](https://github.com/operatecenter/operator-starter) - Starter kit for autonomous AI agents with a console. Lightpanda is one of several pluggable browser runtimes, reached over CDP, alongside Steel, Chromium and MicroVMs.
 
 ## Language Bindings and Drivers
  
@@ -150,6 +157,10 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [laghoule/lightpanda_browser](https://github.com/laghoule/lightpanda_browser) - Helm chart deploying Lightpanda as a CDP and WebDriver server on Kubernetes.
 - [Va55/lightpanda-musl](https://github.com/Va55/lightpanda-musl) - Fully static musl builds of Lightpanda for x86_64 and 32-bit x86, with the build recipe.
 - [sidalit/lightpanda-snap](https://github.com/sidalit/lightpanda-snap) - Snap packaging for Lightpanda.
+- [handsomejackson/lightpanda-zh](https://github.com/handsomejackson/lightpanda-zh) - Unofficial Chinese tutorial covering install, a first fetch, Puppeteer over CDP, and a memory comparison between Lightpanda and Chrome.
+- [Ezra-Zhao/lightpanda-cheatsheet-es-pt](https://github.com/Ezra-Zhao/lightpanda-cheatsheet-es-pt) - One-page Lightpanda cheatsheet in Chinese, English, Spanish and Portuguese: fetch, serve, agent and mcp modes, CDP quickstart and install.
+- [linmoxi33/lightpanda-cdp-noop-guard](https://github.com/linmoxi33/lightpanda-cdp-noop-guard) - Offline CI tool that checks CDP traces for methods Lightpanda accepts but silently ignores, with links to the upstream source.
+- [KingOfKalk/devcontainer-features](https://github.com/KingOfKalk/devcontainer-features) - Collection of devcontainer features, including one that installs Lightpanda (CDP, fetch, MCP) with telemetry off.
 - [Lightpanda Browser](https://github.com/lightpanda-io/browser) - Lightpanda browser repo.
 - [Lightpanda Docs](https://github.com/lightpanda-io/docs) - Documentation.
 - [Lightpanda Demo](https://github.com/lightpanda-io/demo) - Demo repository with Puppeteer examples and benchmarks.
