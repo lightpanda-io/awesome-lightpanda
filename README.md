@@ -58,7 +58,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [Amz34/hyper-scrape](https://github.com/Amz34/hyper-scrape) - Web extraction and RAG ingestion engine in three tiers: Scrapling, Lightpanda (Zig and V8) for JavaScript pages, and Crawl4AI as the heavy fallback.
 - [bharathvbcr/vani](https://github.com/bharathvbcr/vani) - Job-listing reader in Go that fetches public employer career pages. Custom careers pages are read through one Lightpanda process per board.
 - [AkaraChen/sex](https://github.com/AkaraChen/sex) - Self-hosted Firecrawl v2 API replacement for search and scraping, with a CLI, HTTP API and MCP server. Bundles Lightpanda as the optional JavaScript renderer.
-- [lgoyal6/hacklist-sf](https://github.com/lgoyal6/hacklist-sf) - Finds public hackathons in the SF Bay Area and San Diego and publishes them as subscribable calendars. Its discovery sweep crawls with Lightpanda through `@lightpanda/browser`.
+- [lgoyal6/hacklist-sf](https://github.com/lgoyal6/hacklist-sf) - Finds public hackathons in the SF Bay Area and San Diego with a Lightpanda crawler and publishes them as subscribable calendars.
 - [liamugong/dsh--web-fetch](https://github.com/liamugong/dsh--web-fetch) - Web-fetch provider for DeepSeek Harness that chains backends (direct HTTP, Jina Reader, fastCRW, Exa, Lightpanda and more) into a fallback order you can reorder.
 
 ## AI Agents and Automation
@@ -128,7 +128,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [thiagoyb11/UTNFRSF-CampusVirtual-MCP](https://github.com/thiagoyb11/UTNFRSF-CampusVirtual-MCP) - MCP server for the UTN FRSF virtual campus that reads courses, calendars and resources and submits assignments, driving the site with Lightpanda.
 - [fufay/dsh-lightpanda-skill](https://github.com/fufay/dsh-lightpanda-skill) - Headless browsing skill for DSH and Whale agents: stateless fetch plus stateful cookie and session work over CDP, with the Lightpanda binary downloaded and checked by sha256.
 - [operatecenter/operator-starter](https://github.com/operatecenter/operator-starter) - Starter kit for autonomous AI agents with a console. Lightpanda is one of several pluggable browser runtimes, reached over CDP, alongside Steel, Chromium and MicroVMs.
-- [AngelGalindo7/Stochastic-Monkey](https://github.com/AngelGalindo7/Stochastic-Monkey) - Monte Carlo Tree Search bug hunter for web apps that asks an LLM what each action should do and flags divergences. Can run on Lightpanda via `LIGHTPANDA_BIN`.
+- [AngelGalindo7/Stochastic-Monkey](https://github.com/AngelGalindo7/Stochastic-Monkey) - Monte Carlo Tree Search bug hunter for web apps that asks an LLM what each action should do and flags divergences. Lightpanda is one of its browser engines.
 - [CatREFuse/sunabot](https://github.com/CatREFuse/sunabot) - Self-hosted multi-agent QQ bot service with memory, tools and web fetching. Its dynamic WebFetch renderer runs a native Lightpanda build on Linux and WSL.
 - [claudianus/superliora](https://github.com/claudianus/superliora) - Terminal CLI for running autonomous AI coding agents, with a server, SDK and editor integration. Uses Lightpanda as a lightweight fallback runtime for browser use.
 - [CN-big-cabbage/skill-lightpanda](https://github.com/CN-big-cabbage/skill-lightpanda) - Chinese-language agent skill for Lightpanda, with installation, quickstart, advanced usage and troubleshooting guides.
@@ -136,7 +136,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [filocosta46/dotaios](https://github.com/filocosta46/dotaios) - Local folder of personal context that AI assistants share across tools. Its CLI setup downloads Lightpanda and uses it to ingest web pages.
 - [GuanceCloud/cliutils](https://github.com/GuanceCloud/cliutils) - Go utility library from Guance Cloud. Its dialtesting package runs browser synthetic tests with a Lightpanda engine.
 - [jaikdhir1/lightpanda-web-browser](https://github.com/jaikdhir1/lightpanda-web-browser) - Browse-the-web-from-a-container project with two modes: a streamed full Chrome, or a Lightpanda CDP server from the `lightpanda/browser` image.
-- [librefang/librefang](https://github.com/librefang/librefang) - Open-source Agent OS built in Rust. Its browser runtime can attach to a remote CDP server such as Lightpanda, which has no Chrome-style HTTP discovery routes.
+- [librefang/librefang](https://github.com/librefang/librefang) - Open-source Agent OS built in Rust. Its browser runtime can attach to a running Lightpanda over CDP.
 - [lmthing/org](https://github.com/lmthing/org) - LLM agent runtime where the model drives programs by writing TypeScript in a QuickJS sandbox. Its CLI installs Lightpanda for its browser tools.
 - [opencoredev/akeru-bot](https://github.com/opencoredev/akeru-bot) - Self-hosted app for running named Grok bots, forked from T3 Code, with Claude, Codex and OpenCode providers. Downloads and runs Lightpanda as its sandbox browser.
 - [peteqian/agent-browser](https://github.com/peteqian/agent-browser) - TypeScript browser automation over raw CDP with an LLM decision loop. Supports Lightpanda as an engine with `--engine lightpanda`.
@@ -144,7 +144,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [xcvzmoon/bamboo](https://github.com/xcvzmoon/bamboo) - Tauri, Rust and Nuxt desktop app for running and scheduling headless browser jobs on Lightpanda, with no bundled Chromium.
 - [erictran308/tuitok](https://github.com/erictran308/tuitok) - Terminal TikTok client that shows one video at a time with its top comments, made for the Pepper terminal. Fetches the feed with Lightpanda, falling back to Chrome.
 - [BradPita/Octop-LightPanda-Plugin-Install-Guide](https://github.com/BradPita/Octop-LightPanda-Plugin-Install-Guide) - Guide and plugin that install Lightpanda as an Octop plugin, used first for browsing with automatic fallback to Chrome.
-- [caglarkc/agent-browser](https://github.com/caglarkc/agent-browser) - Experimental browser execution layer for AI agents: observes pages through DOM controls, lets JEV pick the next action and executes it with Lightpanda.
+- [caglarkc/agent-browser](https://github.com/caglarkc/agent-browser) - Experimental browser execution layer for AI agents: observes pages through DOM controls, lets JEV pick the next action and runs it on a patched Lightpanda build that hosts several pages in one process.
 - [Nerqiva/uptimePanda](https://github.com/Nerqiva/uptimePanda) - Rust synthetic website monitor built on Lightpanda for 512 MB RAM and 0.15 vCPU, with a persistent Lightpanda child recycled by memory use.
 
 ## Language Bindings and Drivers
