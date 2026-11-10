@@ -60,6 +60,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [AkaraChen/sex](https://github.com/AkaraChen/sex) - Self-hosted Firecrawl v2 API replacement for search and scraping, with a CLI, HTTP API and MCP server. Bundles Lightpanda as the optional JavaScript renderer.
 - [lgoyal6/hacklist-sf](https://github.com/lgoyal6/hacklist-sf) - Finds public hackathons in the SF Bay Area and San Diego with a Lightpanda crawler and publishes them as subscribable calendars.
 - [liamugong/dsh--web-fetch](https://github.com/liamugong/dsh--web-fetch) - Web-fetch provider for DeepSeek Harness that chains backends (direct HTTP, Jina Reader, fastCRW, Exa, Lightpanda and more) into a fallback order you can reorder.
+- [xhrdev/examples](https://github.com/xhrdev/examples) - Examples of solving live bot-protection challenges with xhr.dev, a self-hosted challenge solver. Some examples drive a Lightpanda binary downloaded at install.
 
 ## AI Agents and Automation
  
@@ -146,6 +147,8 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [BradPita/Octop-LightPanda-Plugin-Install-Guide](https://github.com/BradPita/Octop-LightPanda-Plugin-Install-Guide) - Guide and plugin that install Lightpanda as an Octop plugin, used first for browsing with automatic fallback to Chrome.
 - [caglarkc/agent-browser](https://github.com/caglarkc/agent-browser) - Experimental browser execution layer for AI agents: observes pages through DOM controls, lets JEV pick the next action and runs it on a patched Lightpanda build that hosts several pages in one process.
 - [Nerqiva/uptimePanda](https://github.com/Nerqiva/uptimePanda) - Rust synthetic website monitor built on Lightpanda for 512 MB RAM and 0.15 vCPU, with a persistent Lightpanda child recycled by memory use.
+- [leeguooooo/chrome-use](https://github.com/leeguooooo/chrome-use) - Drives your real, logged-in Chrome from any AI agent through a CLI and MCP server. Its `--engine lightpanda` option runs Lightpanda instead.
+- [Amz34/stealth-browser-mesh](https://github.com/Amz34/stealth-browser-mesh) - MCP browser mesh for AI agents: Lightpanda handles fast markdown and DOM extraction, a Nodriver Chrome engine handles Cloudflare-protected pages.
 
 ## Language Bindings and Drivers
  
@@ -188,6 +191,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [two-workspaces/lightpanda](https://github.com/two-workspaces/lightpanda) - Railway template that deploys Lightpanda behind a token gate, started with `--block-private-networks`.
 - [wgross19/fastcrw-aio](https://github.com/wgross19/fastcrw-aio) - Unraid container that runs fastCRW with a bundled Lightpanda renderer on internal port 9222.
 - [wheat0r/lightpanda_docker_image](https://github.com/wheat0r/lightpanda_docker_image) - Third-party nightly Docker images of Lightpanda, built from the official Dockerfile.
+- [EtanDct/browser-benchmark](https://github.com/EtanDct/browser-benchmark) - Benchmark of headless browsers and frameworks on anti-bot bypass, performance and fidelity. Lightpanda runs as a `lightpanda serve` CDP server driven by Puppeteer.
 - [Lightpanda Browser](https://github.com/lightpanda-io/browser) - Lightpanda browser repo.
 - [Lightpanda Docs](https://github.com/lightpanda-io/docs) - Documentation.
 - [Lightpanda Demo](https://github.com/lightpanda-io/demo) - Demo repository with Puppeteer examples and benchmarks.
