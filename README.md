@@ -61,6 +61,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [lgoyal6/hacklist-sf](https://github.com/lgoyal6/hacklist-sf) - Finds public hackathons in the SF Bay Area and San Diego with a Lightpanda crawler and publishes them as subscribable calendars.
 - [liamugong/dsh--web-fetch](https://github.com/liamugong/dsh--web-fetch) - Web-fetch provider for DeepSeek Harness that chains backends (direct HTTP, Jina Reader, fastCRW, Exa, Lightpanda and more) into a fallback order you can reorder.
 - [xhrdev/examples](https://github.com/xhrdev/examples) - Examples of solving live bot-protection challenges with xhr.dev, a self-hosted challenge solver. Some examples drive a Lightpanda binary downloaded at install.
+- [fisknils/osmotic-plugin-lightpanda](https://github.com/fisknils/osmotic-plugin-lightpanda) - Plugin for the osmotic scraper that renders pages in Lightpanda, so content built by JavaScript can be scraped without Chromium. Starts one shared Lightpanda process per run.
 
 ## AI Agents and Automation
  
@@ -150,6 +151,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [leeguooooo/chrome-use](https://github.com/leeguooooo/chrome-use) - Drives your real, logged-in Chrome from any AI agent through a CLI and MCP server. Its `--engine lightpanda` option runs Lightpanda instead.
 - [Amz34/stealth-browser-mesh](https://github.com/Amz34/stealth-browser-mesh) - MCP browser mesh for AI agents: Lightpanda handles fast markdown and DOM extraction, a Nodriver Chrome engine handles Cloudflare-protected pages.
 - [mithmass89/wiraxplore](https://github.com/mithmass89/wiraxplore) - E2E testing harness that runs one spec suite on Lightpanda, Playwright or Puppeteer, with MCP tools and agent skills. `--engine lightpanda` drives Lightpanda over CDP for cheap smoke runs.
+- [YuGiMob/pi-lightpanda-web](https://github.com/YuGiMob/pi-lightpanda-web) - Extension for the `pi` coding agent that provides `web_search` and `web_fetch` through a local Lightpanda browser, which loads every remote HTML page. Installs Lightpanda on first run.
 
 ## Language Bindings and Drivers
  
