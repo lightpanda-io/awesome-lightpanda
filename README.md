@@ -74,6 +74,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [ulpi-io/browse](https://github.com/ulpi-io/browse) - Browsing tool by ULPI for AI agent workflows, powered by Lightpanda.
 - [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) - OpenClaw rebuilt in Go with multi-tenant isolation and native concurrency. Ships a Lightpanda sidecar overlay for docker-compose, with Lightpanda-aware remote browser handling.
 - [irookanji/playwright-lightpanda-tests](https://github.com/irookanji/playwright-lightpanda-tests) - Playwright test automation framework with Lightpanda integration.
+- [The-Adult-In-The-Room/poe2-tools](https://github.com/The-Adult-In-The-Room/poe2-tools) - Path of Exile 2 toolkit (weapon DPS calculator, currency rates) built with React. Its Playwright e2e suites start Lightpanda in global setup and connect over CDP instead of launching Chromium.
 - [elchemista/spectre_lens](https://github.com/elchemista/spectre_lens) - Agent-first Elixir browser lens for Lightpanda.
 - [LocalKinAI/kinbrowser](https://github.com/LocalKinAI/kinbrowser) - Markdown-native browser for AI agents with a three-tier waterfall system, HTTP → Lightpanda → chromedp.
 - [hartmantexas/tb](https://github.com/hartmantexas/tb) - Hybrid approach using Lightpanda with Satori to convert DOM HTML to SVG, falling back to Chromium for pixels.
