@@ -61,6 +61,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [lgoyal6/hacklist-sf](https://github.com/lgoyal6/hacklist-sf) - Finds public hackathons in the SF Bay Area and San Diego with a Lightpanda crawler and publishes them as subscribable calendars.
 - [liamugong/dsh--web-fetch](https://github.com/liamugong/dsh--web-fetch) - Web-fetch provider for DeepSeek Harness that chains backends (direct HTTP, Jina Reader, fastCRW, Exa, Lightpanda and more) into a fallback order you can reorder.
 - [xhrdev/examples](https://github.com/xhrdev/examples) - Examples of solving live bot-protection challenges with xhr.dev, a self-hosted challenge solver. Some examples drive a Lightpanda binary downloaded at install.
+- [fisknils/osmotic-plugin-lightpanda](https://github.com/fisknils/osmotic-plugin-lightpanda) - Plugin for the osmotic scraper that renders pages in Lightpanda, so content built by JavaScript can be scraped without Chromium. Starts one shared Lightpanda process per run.
 
 ## AI Agents and Automation
  
@@ -73,6 +74,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [ulpi-io/browse](https://github.com/ulpi-io/browse) - Browsing tool by ULPI for AI agent workflows, powered by Lightpanda.
 - [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) - OpenClaw rebuilt in Go with multi-tenant isolation and native concurrency. Ships a Lightpanda sidecar overlay for docker-compose, with Lightpanda-aware remote browser handling.
 - [irookanji/playwright-lightpanda-tests](https://github.com/irookanji/playwright-lightpanda-tests) - Playwright test automation framework with Lightpanda integration.
+- [The-Adult-In-The-Room/poe2-tools](https://github.com/The-Adult-In-The-Room/poe2-tools) - Path of Exile 2 toolkit (weapon DPS calculator, currency rates) built with React. Its Playwright e2e suites start Lightpanda in global setup and connect over CDP instead of launching Chromium.
 - [elchemista/spectre_lens](https://github.com/elchemista/spectre_lens) - Agent-first Elixir browser lens for Lightpanda.
 - [LocalKinAI/kinbrowser](https://github.com/LocalKinAI/kinbrowser) - Markdown-native browser for AI agents with a three-tier waterfall system, HTTP → Lightpanda → chromedp.
 - [hartmantexas/tb](https://github.com/hartmantexas/tb) - Hybrid approach using Lightpanda with Satori to convert DOM HTML to SVG, falling back to Chromium for pixels.
@@ -112,6 +114,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [Tariq-Anjum/ai-web-agent-stack](https://github.com/Tariq-Anjum/ai-web-agent-stack) - Local AI web agent stack combining SearXNG, Crawl4AI and agent-browser running on Lightpanda.
 - [outmost9271/pi-browser-switch](https://github.com/outmost9271/pi-browser-switch) - `pi` extension that switches between local Chrome and Lightpanda containers.
 - [tonyputi/pi-lightpanda](https://github.com/tonyputi/pi-lightpanda) - Extension giving the `pi` coding agent a Lightpanda browser.
+- [YuGiMob/pi-lightpanda-web](https://github.com/YuGiMob/pi-lightpanda-web) - Extension for the `pi` coding agent that provides `web_search` and `web_fetch` through a local Lightpanda browser, which loads every remote HTML page.
 - [abdulaaly/omnifast-browser](https://github.com/abdulaaly/omnifast-browser) - Web agent with pluggable browser engines, including Lightpanda.
 - [BIackFIame/canvastty-plugin-lightpanda](https://github.com/BIackFIame/canvastty-plugin-lightpanda) - Optional Lightpanda engine for background browsing by CanvasTTY agents.
 - [stanleyrprose/mac-browser-plane](https://github.com/stanleyrprose/mac-browser-plane) - Browser execution service for agents running on a Mac mini (exposed over MCP) with Chrome and Lightpanda engines.
