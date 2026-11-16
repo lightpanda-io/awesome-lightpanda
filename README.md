@@ -113,6 +113,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [Tariq-Anjum/ai-web-agent-stack](https://github.com/Tariq-Anjum/ai-web-agent-stack) - Local AI web agent stack combining SearXNG, Crawl4AI and agent-browser running on Lightpanda.
 - [outmost9271/pi-browser-switch](https://github.com/outmost9271/pi-browser-switch) - `pi` extension that switches between local Chrome and Lightpanda containers.
 - [tonyputi/pi-lightpanda](https://github.com/tonyputi/pi-lightpanda) - Extension giving the `pi` coding agent a Lightpanda browser.
+- [YuGiMob/pi-lightpanda-web](https://github.com/YuGiMob/pi-lightpanda-web) - Extension for the `pi` coding agent that provides `web_search` and `web_fetch` through a local Lightpanda browser, which loads every remote HTML page.
 - [abdulaaly/omnifast-browser](https://github.com/abdulaaly/omnifast-browser) - Web agent with pluggable browser engines, including Lightpanda.
 - [BIackFIame/canvastty-plugin-lightpanda](https://github.com/BIackFIame/canvastty-plugin-lightpanda) - Optional Lightpanda engine for background browsing by CanvasTTY agents.
 - [stanleyrprose/mac-browser-plane](https://github.com/stanleyrprose/mac-browser-plane) - Browser execution service for agents running on a Mac mini (exposed over MCP) with Chrome and Lightpanda engines.
@@ -151,7 +152,6 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [leeguooooo/chrome-use](https://github.com/leeguooooo/chrome-use) - Drives your real, logged-in Chrome from any AI agent through a CLI and MCP server. Its `--engine lightpanda` option runs Lightpanda instead.
 - [Amz34/stealth-browser-mesh](https://github.com/Amz34/stealth-browser-mesh) - MCP browser mesh for AI agents: Lightpanda handles fast markdown and DOM extraction, a Nodriver Chrome engine handles Cloudflare-protected pages.
 - [mithmass89/wiraxplore](https://github.com/mithmass89/wiraxplore) - E2E testing harness that runs one spec suite on Lightpanda, Playwright or Puppeteer, with MCP tools and agent skills. `--engine lightpanda` drives Lightpanda over CDP for cheap smoke runs.
-- [YuGiMob/pi-lightpanda-web](https://github.com/YuGiMob/pi-lightpanda-web) - Extension for the `pi` coding agent that provides `web_search` and `web_fetch` through a local Lightpanda browser, which loads every remote HTML page. Installs Lightpanda on first run.
 
 ## Language Bindings and Drivers
  
