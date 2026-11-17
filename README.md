@@ -35,6 +35,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [monostate/node-scraper](https://github.com/monostate/node-scraper) - Smart Node.js scraper that automatically switches between fetch, Lightpanda headless, and full Puppeteer with intelligent fallback. Includes AI-powered Q&A, PDF parsing, and bulk scraping with progress tracking.
 - [tylergibbs1/feedstock](https://github.com/tylergibbs1/feedstock) - High-performance web crawler and scraper for TypeScript, powered by Bun. Supports Lightpanda, local or cloud, as a browser backend alongside Playwright and generic CDP.
 - [SurendraTamang/scrapy-lightpanda](https://github.com/SurendraTamang/scrapy-lightpanda) - Scrapy download handler that plugs Lightpanda into scrapy-playwright for JavaScript-rendered pages.
+- [bisdak/scrapy-lightpanda](https://github.com/bisdak/scrapy-lightpanda) - Opt-in Scrapy downloader middleware that renders requests marked `meta={"lightpanda": True}` with Lightpanda through lightpanda-py.
 - [us/crw](https://github.com/us/crw) - Open-source web scraper built for AI agents with a built-in MCP server. Single Rust binary, ~6 MB idle RAM. Uses Lightpanda for JS rendering. Firecrawl-compatible API.
 - [ancs21/playpanda](https://github.com/ancs21/playpanda) - Any URL to LLM-ready markdown. Three-tier engine: HTTP → Lightpanda → CloakBrowser. Written in Zig.
 - [tokimo-lab/tokimo-package-web-fetch](https://github.com/tokimo-lab/tokimo-package-web-fetch) - Unified Rust fetcher: plain HTTP, headless browser via Lightpanda, or Cloudflare bypass, with Readability denoising.
@@ -153,6 +154,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [leeguooooo/chrome-use](https://github.com/leeguooooo/chrome-use) - Drives your real, logged-in Chrome from any AI agent through a CLI and MCP server. Its `--engine lightpanda` option runs Lightpanda instead.
 - [Amz34/stealth-browser-mesh](https://github.com/Amz34/stealth-browser-mesh) - MCP browser mesh for AI agents: Lightpanda handles fast markdown and DOM extraction, a Nodriver Chrome engine handles Cloudflare-protected pages.
 - [mithmass89/wiraxplore](https://github.com/mithmass89/wiraxplore) - E2E testing harness that runs one spec suite on Lightpanda, Playwright or Puppeteer, with MCP tools and agent skills. `--engine lightpanda` drives Lightpanda over CDP for cheap smoke runs.
+- [Zwart04/omnix](https://github.com/Zwart04/omnix) - Lightweight Rust desktop workbench for worktrees and agent sessions with indexed agent history. Uses Lightpanda as the headless CDP engine for agents (`omnix browser fetch`).
 
 ## Language Bindings and Drivers
  
@@ -197,6 +199,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [wheat0r/lightpanda_docker_image](https://github.com/wheat0r/lightpanda_docker_image) - Third-party nightly Docker images of Lightpanda, built from the official Dockerfile.
 - [EtanDct/browser-benchmark](https://github.com/EtanDct/browser-benchmark) - Benchmark of headless browsers and frameworks on anti-bot bypass, performance and fidelity. Lightpanda runs as a `lightpanda serve` CDP server driven by Puppeteer.
 - [test-aitest/lightpanda-bench](https://github.com/test-aitest/lightpanda-bench) - Benchmark of Lightpanda against headless Chrome on 26 real pages (memory, time and network), with the method and scripts to rerun it.
+- [talelboussetta/agent-browser-bench](https://github.com/talelboussetta/agent-browser-bench) - Benchmark of Playwright, Crawl4AI, Lightpanda 1.0.4 and agent-browser on a local test site, with a 1,000-navigation endurance run.
 - [Lightpanda Browser](https://github.com/lightpanda-io/browser) - Lightpanda browser repo.
 - [Lightpanda Docs](https://github.com/lightpanda-io/docs) - Documentation.
 - [Lightpanda Demo](https://github.com/lightpanda-io/demo) - Demo repository with Puppeteer examples and benchmarks.
