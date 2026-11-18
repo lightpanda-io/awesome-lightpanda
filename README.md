@@ -200,6 +200,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [EtanDct/browser-benchmark](https://github.com/EtanDct/browser-benchmark) - Benchmark of headless browsers and frameworks on anti-bot bypass, performance and fidelity. Lightpanda runs as a `lightpanda serve` CDP server driven by Puppeteer.
 - [test-aitest/lightpanda-bench](https://github.com/test-aitest/lightpanda-bench) - Benchmark of Lightpanda against headless Chrome on 26 real pages (memory, time and network), with the method and scripts to rerun it.
 - [talelboussetta/agent-browser-bench](https://github.com/talelboussetta/agent-browser-bench) - Benchmark of Playwright, Crawl4AI, Lightpanda 1.0.4 and agent-browser on a local test site, with a 1,000-navigation endurance run.
+- [cognitive-unload/headless-browsers-vs-chrome](https://github.com/cognitive-unload/headless-browsers-vs-chrome) - Reproduction kit benchmarking Chrome, Obscura, Moli and Lightpanda on one fixed Kan board script and a 100-run shop-page memory test.
 - [Lightpanda Browser](https://github.com/lightpanda-io/browser) - Lightpanda browser repo.
 - [Lightpanda Docs](https://github.com/lightpanda-io/docs) - Documentation.
 - [Lightpanda Demo](https://github.com/lightpanda-io/demo) - Demo repository with Puppeteer examples and benchmarks.
