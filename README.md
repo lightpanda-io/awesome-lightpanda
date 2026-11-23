@@ -195,11 +195,13 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [KingOfKalk/devcontainer-features](https://github.com/KingOfKalk/devcontainer-features) - Collection of devcontainer features, including one that installs Lightpanda (CDP, fetch, MCP) with telemetry off.
 - [Xavier577/lightpanda-scrapper-example](https://github.com/Xavier577/lightpanda-scrapper-example) - Web scraping examples with Lightpanda and Puppeteer, using the `@lightpanda/browser` npm package.
 - [two-workspaces/lightpanda](https://github.com/two-workspaces/lightpanda) - Railway template that deploys Lightpanda behind a token gate, started with `--block-private-networks`.
+- [arjunkomath/lightpanda-browser-railway](https://github.com/arjunkomath/lightpanda-browser-railway) - Railway deploy template running Lightpanda as a private CDP server with `lightpanda serve --advertise-host`, pinned to the latest stable release.
 - [wgross19/fastcrw-aio](https://github.com/wgross19/fastcrw-aio) - Unraid container that runs fastCRW with a bundled Lightpanda renderer on internal port 9222.
 - [wheat0r/lightpanda_docker_image](https://github.com/wheat0r/lightpanda_docker_image) - Third-party nightly Docker images of Lightpanda, built from the official Dockerfile.
 - [EtanDct/browser-benchmark](https://github.com/EtanDct/browser-benchmark) - Benchmark of headless browsers and frameworks on anti-bot bypass, performance and fidelity. Lightpanda runs as a `lightpanda serve` CDP server driven by Puppeteer.
 - [test-aitest/lightpanda-bench](https://github.com/test-aitest/lightpanda-bench) - Benchmark of Lightpanda against headless Chrome on 26 real pages (memory, time and network), with the method and scripts to rerun it.
 - [talelboussetta/agent-browser-bench](https://github.com/talelboussetta/agent-browser-bench) - Benchmark of Playwright, Crawl4AI, Lightpanda 1.0.4 and agent-browser on a local test site, with a 1,000-navigation endurance run.
+- [cognitive-unload/headless-browsers-vs-chrome](https://github.com/cognitive-unload/headless-browsers-vs-chrome) - Reproduction kit benchmarking Chrome, Obscura, Moli and Lightpanda on one fixed Kan board script and a 100-run shop-page memory test.
 - [Lightpanda Browser](https://github.com/lightpanda-io/browser) - Lightpanda browser repo.
 - [Lightpanda Docs](https://github.com/lightpanda-io/docs) - Documentation.
 - [Lightpanda Demo](https://github.com/lightpanda-io/demo) - Demo repository with Puppeteer examples and benchmarks.
