@@ -155,6 +155,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [Amz34/stealth-browser-mesh](https://github.com/Amz34/stealth-browser-mesh) - MCP browser mesh for AI agents: Lightpanda handles fast markdown and DOM extraction, a Nodriver Chrome engine handles Cloudflare-protected pages.
 - [mithmass89/wiraxplore](https://github.com/mithmass89/wiraxplore) - E2E testing harness that runs one spec suite on Lightpanda, Playwright or Puppeteer, with MCP tools and agent skills. `--engine lightpanda` drives Lightpanda over CDP for cheap smoke runs.
 - [Zwart04/omnix](https://github.com/Zwart04/omnix) - Lightweight Rust desktop workbench for worktrees and agent sessions with indexed agent history. Uses Lightpanda as the headless CDP engine for agents (`omnix browser fetch`).
+- [hardy-ayp/accounting-browser-pipeline](https://github.com/hardy-ayp/accounting-browser-pipeline) - Agent skill and Python pipeline that pulls financial reports from web ERP portals and reconciles them into SQL and spreadsheets. Uses Lightpanda over CDP for headless crawling.
 
 ## Language Bindings and Drivers
  
