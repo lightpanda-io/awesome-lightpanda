@@ -82,6 +82,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - Node.js framework for WhatsApp chatbots. Bots can swap to Lightpanda as a lightweight headless backend without runtime changes.
 - [EratoLab/web-access-mcp](https://github.com/EratoLab/web-access-mcp) - Web access MCP server aimed at chat interfaces. Local browser launch supports Lightpanda alongside Chrome, and it ships a dedicated Lightpanda Dockerfile.
 - [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode.
+- [b-runz/llm-node](https://github.com/b-runz/llm-node) - Container image for an opencode coding workspace with Ghidra, Playwright and Node tooling. Bundles a checksum-pinned Lightpanda binary and the Lightpanda agent skill as web tools.
 - [hasindu-madushan/slim-atlas-ai](https://github.com/hasindu-madushan/slim-atlas-ai) - An MCP server providing lightweight browser automation using Lightpanda for LLMs.
 - [prokopis3/webrain](https://github.com/prokopis3/webrain) - Rust MCP server for LLM-driven browser automation and web scraping. Runs Chrome, Lightpanda and Obscura through a single CDP backend.
 - [amurru/hakase](https://github.com/amurru/hakase) - Go AI research and navigation agent. Ships a `lightpanda` MCP server in its default tool configuration.
