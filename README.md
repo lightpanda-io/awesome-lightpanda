@@ -179,6 +179,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [qidiai/lightpanda-windows-port](https://github.com/qidiai/lightpanda-windows-port) - Community port of Lightpanda to native Windows.
 - [mattneel/lightpanda_ex](https://github.com/mattneel/lightpanda_ex) - Mix tasks to install and run Lightpanda from Elixir, modeled on the Phoenix `esbuild` package.
 - [cimon-bkr/lightpanda-termux](https://github.com/cimon-bkr/lightpanda-termux) - Installer that runs the official Lightpanda aarch64 build on Android through Termux's glibc-runner, with a pinned SHA-256 check and a `lightpanda-serve` CDP command.
+- [YZ-SI/lightpanda-windows-x64](https://github.com/YZ-SI/lightpanda-windows-x64) - Community port of Lightpanda 1.0.5 to native Windows x64, with a prebuilt ZIP release, CLI, CDP and MCP support, and the upstream test suite run on Windows.
 
 ## Resources
  
