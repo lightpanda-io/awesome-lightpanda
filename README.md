@@ -63,6 +63,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [liamugong/dsh--web-fetch](https://github.com/liamugong/dsh--web-fetch) - Web-fetch provider for DeepSeek Harness that chains backends (direct HTTP, Jina Reader, fastCRW, Exa, Lightpanda and more) into a fallback order you can reorder.
 - [xhrdev/examples](https://github.com/xhrdev/examples) - Examples of solving live bot-protection challenges with xhr.dev, a self-hosted challenge solver. Some examples drive a Lightpanda binary downloaded at install.
 - [fisknils/osmotic-plugin-lightpanda](https://github.com/fisknils/osmotic-plugin-lightpanda) - Plugin for the osmotic scraper that renders pages in Lightpanda, so content built by JavaScript can be scraped without Chromium. Starts one shared Lightpanda process per run.
+- [Baimmmss/veilcrawl](https://github.com/Baimmmss/veilcrawl) - Local website crawler and MCP search tool for AI agents that redacts emails and secrets before returning snippets. Uses Lightpanda as its default headless browser over CDP.
 
 ## AI Agents and Automation
  
@@ -157,6 +158,7 @@ A curated list of cool things people are building with [Lightpanda](https://gith
 - [mithmass89/wiraxplore](https://github.com/mithmass89/wiraxplore) - E2E testing harness that runs one spec suite on Lightpanda, Playwright or Puppeteer, with MCP tools and agent skills. `--engine lightpanda` drives Lightpanda over CDP for cheap smoke runs.
 - [Zwart04/omnix](https://github.com/Zwart04/omnix) - Lightweight Rust desktop workbench for worktrees and agent sessions with indexed agent history. Uses Lightpanda as the headless CDP engine for agents (`omnix browser fetch`).
 - [hardy-ayp/accounting-browser-pipeline](https://github.com/hardy-ayp/accounting-browser-pipeline) - Agent skill and Python pipeline that pulls financial reports from web ERP portals and reconciles them into SQL and spreadsheets. Uses Lightpanda over CDP for headless crawling.
+- [kink80/datovka-skill](https://github.com/kink80/datovka-skill) - Claude Code plugin for reading a Czech data box (datová schránka) through a bank-identity login. Downloads a pinned Lightpanda build and drives it with `lightpanda serve` and Puppeteer.
 
 ## Language Bindings and Drivers
  
